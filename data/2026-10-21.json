@@ -1,0 +1,113 @@
+{
+ "date": "2026-10-21",
+ "level": "B1-B2",
+ "note": "素材来自今天的 X 简报和持仓表，仅供语言练习，不构成投资建议",
+ "listen": {
+  "title": "Today in Tech and Markets",
+  "text": "Anthropic's IPO filing is the talk of X today. The company reported revenue of 16.3 billion dollars in the first half of 2026, up from 1.1 billion a year earlier. However, it also posted a net loss of 80.7 billion dollars, mainly due to accounting charges related to fundraising. In China-related news, ByteDance, Alibaba and Tencent have reportedly ordered more than three million compliant Nvidia RTX PRO 5500 inference cards, worth over 35 billion dollars at list price. But Nvidia says buyers may receive only five to ten percent of that amount. Meanwhile, at SpaceX's third-quarter earnings call, Elon Musk said the company will deploy about 200,000 GB300 GPUs a month for the rest of the year. On Wall Street, Netflix met revenue expectations but gave weaker guidance, and its shares fell five to six percent after hours. Finally, Citadel's Ken Griffin said the market is \"almost certainly\" in an AI bubble.",
+  "rate": 0.9,
+  "questions": [
+   {
+    "q": "What was Anthropic's revenue in the first half of 2026?",
+    "a": "16.3 billion dollars (up from 1.1 billion a year earlier)."
+   },
+   {
+    "q": "What share of the ordered Nvidia cards might Chinese buyers actually receive?",
+    "a": "Only 5–10%."
+   },
+   {
+    "q": "Why did Netflix shares fall after hours?",
+    "a": "Revenue met expectations, but its guidance was weaker than expected."
+   }
+  ]
+ },
+ "speak": {
+  "prompt": "You are my English speaking coach. Let's do a role-play. You are a cautious equity analyst; I am an investor who holds Tencent (0700.HK), Alibaba (BABA) and Zhipu (2513.HK).\nFacts we can use (do not invent others):\n- Tencent: bought at HK$451.6 on Sept 22, now HK$393.8; it is about 24.7% of my portfolio.\n- Alibaba: bought at US$116.31, now about US$104.32.\n- Zhipu: bought at HK$742, now HK$496.\n- ByteDance, Alibaba and Tencent reportedly ordered 3M+ Nvidia RTX PRO 5500 inference cards (35B+ USD at list price), but Nvidia says buyers may get only 5–10%.\n- Ken Griffin says the market is \"almost certainly\" in an AI bubble.\nRules:\n1. Speak at B1–B2 level, short turns, ask me one question at a time.\n2. After every 3 of my sentences, pause and give feedback: (a) grammar mistakes, (b) pronunciation issues you can infer, (c) one more natural way to say what I said.\n3. Don't rewrite everything — max 3 corrections each time.\n4. After 10 minutes, summarize my top 5 mistakes and give me 5 useful phrases.\nStart by asking me why I still hold Tencent.",
+  "questions": [
+   "Should an investor worry if a stock falls about 13% in one month, like Tencent? Why or why not?",
+   "Do you agree with Ken Griffin that the market is in an AI bubble? Give one reason.",
+   "If Chinese companies only get 5–10% of the Nvidia chips they ordered, what could that mean for them?"
+  ],
+  "tip": "参考数据：Tencent HK$451.6 → 393.8 ≈ -12.8%"
+ },
+ "read": {
+  "title": "AI Agents, Hotels and Chips",
+  "text": "The online travel industry is watching AI closely. Sam Shank, co-founder of HotelTonight, believes AI agents could disrupt the paid-ranking model that big online travel agencies rely on. He plans to position HotelTonight as a specialist agent for last-minute stays. Meanwhile, Agoda says its supply of luxury hotels has doubled in four years, and searches for five-star hotels in Kuala Lumpur, Bangkok and Bali are rising. Still, Skift points out that it is hard to prove Agoda can sell luxury until it shares booking data. Airbnb is also changing its rules. For bookings after November 20, hosts can only make \"reasonable\" checkout requests, such as putting dishes in the sink. Guests welcomed the change, but some hosts said they would remove their listings. In hardware, Super Micro raised its quarterly revenue forecast from 14.5–15.5 billion dollars to 18.5–19.5 billion dollars, and its shares jumped after hours.",
+  "vocab": [
+   [
+    "disrupt",
+    "颠覆",
+    "AI agents could disrupt the paid-ranking model of big OTAs."
+   ],
+   [
+    "paid-ranking model",
+    "付费排名模式",
+    ""
+   ],
+   [
+    "position",
+    "定位",
+    "Shank wants to position HotelTonight as a last-minute specialist."
+   ],
+   [
+    "specialist",
+    "专家/专营者",
+    ""
+   ],
+   [
+    "luxury",
+    "奢华",
+    "Agoda says its supply of luxury hotels has doubled."
+   ],
+   [
+    "reasonable",
+    "合理的",
+    ""
+   ],
+   [
+    "remove their listings",
+    "下架房源",
+    "Some Airbnb hosts said they would remove their listings."
+   ],
+   [
+    "raised its quarterly revenue forecast",
+    "上调季度营收预期",
+    "Super Micro raised its revenue forecast for the quarter."
+   ],
+   [
+    "jumped",
+    "大涨",
+    ""
+   ]
+  ],
+  "questions": [
+   {
+    "q": "According to Sam Shank, what could AI agents threaten?",
+    "a": "The paid-ranking model that big OTAs rely on."
+   },
+   {
+    "q": "Why does Skift doubt Agoda's luxury strategy?",
+    "a": "Agoda hasn't shared booking data, so it's hard to prove it can sell luxury."
+   },
+   {
+    "q": "Give one example of a \"reasonable\" checkout request.",
+    "a": "Putting dishes in the sink."
+   }
+  ]
+ },
+ "write": {
+  "task": "选一只持仓（推荐智谱或美团），用英语写 5–8 句点评。只用这些数字：\nZhipu (2513.HK)：HK$742（9/22）→ HK$496，约 -33%，占组合 7.8%\nMeituan (3690.HK)：HK$73.2 → HK$74.7，约 +2%，占组合 10.7%\n结构：1 句现状 → 2 句数字 → 2 句看法/风险 → 1–2 句下一步。",
+  "phrases": [
+   "Since September 22, the stock has fallen/risen by about __%.",
+   "It now makes up __% of my portfolio.",
+   "One reason I'm still holding it is that ...",
+   "The main risk is ...",
+   "On the other hand, ...",
+   "I plan to keep an eye on ...",
+   "It's too early to say whether ..."
+  ],
+  "feedbackPrompt": "Don't rewrite my text. List my 5 most important mistakes and explain why, then give one more natural version of my weakest sentence.",
+  "model": "Meituan has been the most stable stock in my portfolio this month. Since September 22, it has risen from HK$73.2 to HK$74.7, a gain of about 2%. It now makes up 10.7% of my portfolio. One reason I'm still holding it is that it has held up better than Tencent and Alibaba. On the other hand, a small gain doesn't guarantee future growth. I plan to keep an eye on it rather than add more right now.",
+  "check": "自查：现在完成时（has fallen since…）、百分比（by about 33%）、make up X% of"
+ }
+}

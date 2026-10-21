@@ -1,0 +1,24 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>每日英语</title><link rel="stylesheet" href="style.css"></head><body>
+<header><h1>每日英语 <small id="lvl"></small></h1><select id="date"></select><div id="streak"></div></header>
+<nav><a href="#listen">🎧听</a><a href="#speak">🗣️说</a><a href="#read">📖读</a><a href="#write">✍️写</a></nav>
+<p id="note" class="muted"></p><div id="progress"></div>
+<section id="listen"><h2>🎧 听 <span id="lt"></span></h2>
+<div class="row"><button id="lplay">▶ 播放全文</button><button id="lstop">⏹ 停止</button>
+<label>语速 <input type="range" id="rate" min="0.7" max="1.2" step="0.05"> <b id="rv"></b></label></div>
+<label><input type="checkbox" id="showT"> 显示原文</label>
+<ol id="sents" class="hidden"></ol>
+<h3>逐句模式 / 跟读</h3><p class="muted">▶ 听这一句，🎤 跟读后自动对比</p><ol id="shadow"></ol>
+<h3>听写</h3><select id="dictSel"></select><textarea id="dict" rows="3" placeholder="听写这一句…"></textarea>
+<button id="dictChk">对比原文</button><div id="dictOut"></div>
+<h3>听力题</h3><div id="lq"></div></section>
+<section id="speak"><h2>🗣️ 说</h2><p>复制到 Grok / ChatGPT 语音对话：</p><pre id="sp"></pre><button id="spCopy">📋 复制角色扮演提示词</button>
+<h3>口语题（60 秒，再 45 秒重说）</h3><div id="sq"></div><p class="muted" id="stip"></p></section>
+<section id="read"><h2>📖 读 <span id="rt"></span></h2><p class="muted">点高亮词：听发音 + 看中文</p><div id="rtext" class="passage"></div><div id="pop"></div>
+<h3>阅读题</h3><div id="rq"></div></section>
+<section id="write"><h2>✍️ 写</h2><pre id="wtask"></pre><h3>句型库（点击插入）</h3><div id="phr"></div>
+<textarea id="wtxt" rows="8" placeholder="在这里写…自动保存"></textarea><div class="row"><span id="wc">0 词</span>
+<button id="wcopy">📋 复制作文 + 批改提示词</button><button id="wmodel">👀 看范文</button></div>
+<blockquote id="wm" class="hidden"></blockquote><p class="muted" id="wchk"></p></section>
+<footer class="muted">语音识别需 Chrome/Edge；朗读用系统 TTS。</footer>
+<script src="app.js"></script></body></html>
