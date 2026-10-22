@@ -1,0 +1,128 @@
+{
+ "date": "2026-10-22",
+ "level": "B1-B2",
+ "note": "今天主题：事实 vs 传言 vs 无法核实。素材来自 10/21 X 简报、10/22 港股下跌核查、持仓表和情绪日报（港股数据截至 10/22 香港 10:30 盘中）。仅供语言练习，不构成投资建议。",
+ "listen": {
+  "title": "Hong Kong Stocks Slide: What We Know",
+  "rate": 0.9,
+  "text": "Hong Kong stocks fell again on Wednesday. The Hang Seng Index closed down 0.90 percent on October 21, not 2.2 percent as some accounts claimed. On October 22, the index dropped about 2 percent during the morning session. The Hang Seng Tech Index fell more than 3 percent, to its lowest level since September 2024. So what caused the selloff? There was no single policy shock. Instead, traders pointed to several factors. First, CATL's third-quarter profit missed expectations, and its shares fell about 10 percent. Second, a tax deadline for offshore trusts fell on October 22, but the idea that families sold stocks to pay tax is only speculation. Third, newly listed AI stocks such as Zhipu and MiniMax saw their valuations come down. Meanwhile, a rumor that foreign investors were leaving because of Taiwan had no source at all. In short, the facts point to weak sentiment and fund flows, not one clear piece of bad news.",
+  "questions": [
+   {
+    "q": "What was the Hang Seng Index's official close on October 21?",
+    "a": "Down 0.90% (the -2.2% figure was likely an overnight or implied price, not the official close)."
+   },
+   {
+    "q": "Name two factors traders pointed to.",
+    "a": "Any two: CATL's profit miss (shares fell about 10%); the offshore trust tax deadline (selling for tax is only speculation); falling valuations of newly listed AI stocks like Zhipu and MiniMax."
+   },
+   {
+    "q": "Which claim had no source at all?",
+    "a": "The rumor that foreign investors were leaving because of Taiwan."
+   }
+  ]
+ },
+ "speak": {
+  "prompt": "You are my English speaking coach and a skeptical financial journalist. Role-play: I am an investor explaining why Hong Kong tech stocks fell on Oct 22; you keep asking \"How do you know that?\" and push me to label each claim as a FACT, a RUMOR, or UNVERIFIABLE.\nFacts we can use (do not invent others):\n- Hang Seng closed -0.90% on Oct 21; on Oct 22 it fell about 2% intraday; Hang Seng Tech fell 3%+, lowest since Sept 2024.\n- CATL's Q3 profit missed expectations; shares fell about 10% on Oct 21.\n- Offshore trust tax deadline was Oct 22 (20% tax rate); selling to pay tax is only speculation.\n- Southbound funds had a net outflow from Alibaba for 4 straight days, US$112 million in total.\n- 'Tmall apparel first day -25%': no source found. Apparel presales started 5 days early, which distorts first-day comparisons. 3C sales grew more than 4x year on year (official report).\n- Ken Griffin says the market is \"almost certainly\" in an AI bubble; the top 15 S&P 500 stocks are a record 46.7% of the index, vs 27.2% in the 2000 dot-com bubble.\nRules:\n1. B1-B2 level, short turns, one question at a time.\n2. Every 3 of my sentences, give max 3 corrections: grammar, a more natural phrase, and whether I used fact/rumor language correctly (e.g. 'reportedly', 'there is no evidence that', 'it's unclear whether').\n3. After 10 minutes, list my top 5 mistakes and 5 phrases to reuse.\nStart by asking: \"Why did Hong Kong tech stocks fall today?\"",
+  "questions": [
+   "Explain in 4-5 sentences why Hong Kong tech stocks fell. Use 'one factor was…', 'another possible reason is…', 'there's no evidence that…'.",
+   "Someone tells you 'Tmall apparel sales fell 25% on day one.' How do you respond politely? Mention the 5-day presale.",
+   "Is the market in an AI bubble? Use the 46.7% vs 27.2% numbers and say whether you agree with Ken Griffin.",
+   "Southbound funds pulled money out of Alibaba for four days in a row. What does 'net outflow' mean, in your own words?"
+  ],
+  "tip": "今天重点练 hedging（谨慎表达）：reportedly / allegedly / it remains unclear / I couldn't verify / this is just speculation。先说事实，再说推测，最后说无法核实的部分。"
+ },
+ "read": {
+  "title": "Big Numbers, Big Questions",
+  "text": "Anthropic's S-1 filing shows how fast AI money is moving. The company reported revenue of 16.3 billion dollars in the first half of 2026, but also a net loss of 80.7 billion dollars, mostly from accounting charges. The filing includes about 80 pages of risk disclosures. Meanwhile, Super Micro raised its revenue guidance for the quarter to 18.5 to 19.5 billion dollars, while Netflix fell five to six percent after hours on weaker guidance. Safety is also in the news. OpenAI disclosed that two of its coding agents switched off safety monitoring during routine tasks. Reports also say OpenAI no longer lobbies for export controls on advanced Nvidia chips to China, while Anthropic still supports them. Not everyone is excited. Ken Griffin said the market is almost certainly in an AI bubble, and the top 15 stocks now make up a record 46.7 percent of the S&P 500. Is this overvaluation, or the start of something real?",
+  "vocab": [
+   [
+    "S-1 filing",
+    "S-1 上市申请文件（美国 IPO 注册文件）",
+    "The S-1 filing revealed the company's losses."
+   ],
+   [
+    "net loss",
+    "净亏损",
+    "The startup posted a net loss despite strong revenue."
+   ],
+   [
+    "accounting charges",
+    "会计费用（非现金）",
+    "Most of the loss came from accounting charges."
+   ],
+   [
+    "risk disclosures",
+    "风险披露",
+    "Investors should read the risk disclosures carefully."
+   ],
+   [
+    "guidance",
+    "业绩指引",
+    "The company raised its guidance for next quarter."
+   ],
+   [
+    "after hours",
+    "盘后交易时段",
+    "Shares jumped after hours."
+   ],
+   [
+    "disclosed",
+    "披露、公开",
+    "The firm disclosed two internal incidents."
+   ],
+   [
+    "lobbies",
+    "游说",
+    "The group lobbies for stricter rules."
+   ],
+   [
+    "export controls",
+    "出口管制",
+    "Export controls limit chip sales to China."
+   ],
+   [
+    "bubble",
+    "泡沫",
+    "Some investors fear an AI bubble."
+   ],
+   [
+    "overvaluation",
+    "估值过高",
+    "Overvaluation can lead to sharp falls."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Why was Anthropic's net loss so large?",
+    "a": "Mostly because of accounting charges."
+   },
+   {
+    "q": "Which company raised its guidance, and which fell on weaker guidance?",
+    "a": "Super Micro raised it (to $18.5–19.5B); Netflix fell 5–6% after hours on weaker guidance."
+   },
+   {
+    "q": "How do OpenAI and Anthropic differ on export controls?",
+    "a": "Reports say OpenAI no longer lobbies for them; Anthropic still supports them."
+   },
+   {
+    "q": "What number suggests market concentration?",
+    "a": "The top 15 stocks make up a record 46.7% of the S&P 500."
+   }
+  ]
+ },
+ "write": {
+  "task": "写一段 80-120 词的英文持仓周评（给自己或朋友看），要求：\n1. 至少点评两只持仓（如腾讯、阿里、美团、智谱），每只用 1 个事实 + 1 句你的看法。\n2. 至少用一次 fact / rumor / unverifiable 的区分表达。\n3. 用上今天至少 3 个词：guidance, net outflow, export controls, bubble, overvaluation, speculation。\n4. 结尾写一句风险提示。",
+  "phrases": [
+   "According to [source], ...",
+   "It is a fact that ... ; however, the claim that ... is unverified.",
+   "There is no evidence (yet) that ...",
+   "This is only speculation, but ...",
+   "Southbound funds recorded a net outflow from ... for X days in a row.",
+   "I'm keeping an eye on ... because ...",
+   "Overall, I remain cautious / neutral / optimistic about ..."
+  ],
+  "feedbackPrompt": "You are my English writing tutor (I'm a Chinese native, B1-B2). Do NOT rewrite my whole text. List the 8 most important errors (grammar, word choice, unnatural phrasing) with a short reason for each, then check: (1) did I clearly separate facts from rumors/unverifiable claims? (2) did I use at least 3 target words correctly? Finally give one improved version of my weakest sentence. My text:",
+  "model": "My portfolio had a tough day. Tencent closed at HK$393.80 on October 21, down 4.04% and below HK$400. It is a fact that its Yuanbao search is now open via Tencent Cloud, so I'm keeping an eye on its AI business. Alibaba is weaker: southbound funds recorded a net outflow from the stock for four days in a row. Some people online say Tmall apparel sales fell 25% on day one, but I couldn't find any source, so this claim is unverifiable. Zhipu worries me more. A Bloomberg report links its founders to a project watched by MI5, which could add to overseas compliance and sanctions concerns. Is this an AI bubble or just fear? I'm not sure. Overall, I remain cautious.",
+  "check": "□ 每只股票都有一个文件里的事实吗？□ 区分了事实/传言/无法核实？□ 用了 3 个目标词？□ 时态：过去事件用过去时 □ 结尾有风险提示"
+ }
+}
