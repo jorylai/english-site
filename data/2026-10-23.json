@@ -1,0 +1,137 @@
+{
+ "date": "2026-10-23",
+ "level": "B1-B2",
+ "note": "今天主题：用英语讲述“一天的市场大跌”和组合风控（仓位上限、现金缓冲、再平衡）。素材来自 10/22 港股下跌核查、情绪日报和 10/23 持仓快照。仅供语言练习，不构成投资建议。",
+ "listen": {
+  "title": "A Day of Heavy Selling in Hong Kong",
+  "rate": 0.9,
+  "text": "Hong Kong stocks suffered a sharp sell-off on October 22. The Hang Seng Tech Index closed down 5.03 percent, and the Hang Seng Index fell 3.03 percent. What happened? According to Bloomberg, China's market regulator summoned Alibaba, JD, PDD and other e-commerce platforms. It asked them to strengthen product quality control, especially against counterfeit goods and items not as described in livestream selling and instant retail. Investors read this as a sign of a possible regulatory crackdown. Alibaba's Hong Kong shares fell as much as 6.6 percent during the day, their biggest drop in two months. There were other pressures too. CATL's third-quarter net profit missed expectations, and its shares fell about 10 percent on October 21. In addition, a tax filing transition period for offshore trusts ended on October 22. However, the idea that people sold stocks to pay tax is only speculation, not a confirmed fact.",
+  "questions": [
+   {
+    "q": "How much did the Hang Seng Tech Index fall on October 22?",
+    "a": "It closed down 5.03% (the Hang Seng Index fell 3.03%)."
+   },
+   {
+    "q": "Who did the regulator summon, and why?",
+    "a": "Alibaba, JD, PDD and other platforms, to strengthen product quality control against fakes and items not as described."
+   },
+   {
+    "q": "How far did Alibaba's Hong Kong shares fall intraday?",
+    "a": "As much as 6.6%, the biggest drop in two months."
+   },
+   {
+    "q": "Is 'selling to pay tax' a fact?",
+    "a": "No. It is only speculation."
+   }
+  ]
+ },
+ "speak": {
+  "prompt": "You are my English speaking coach and a calm risk manager. I hold a portfolio of about HKD 9.35 million. Zhipu is 6.9% against a 5% cap (about HKD 177k over), Kingsoft Cloud (3896 plus KC) is 9.9% against a 5% cap (about HKD 455k over), and cash is 8.9%, below a 10% buffer. Ask me the questions below one at a time. I will answer in English. After each answer, correct my grammar, suggest one more natural phrase, and ask one follow-up question. This is language practice only: do not give me investment advice, just help me frame arguments clearly in English.",
+  "questions": [
+   "In three sentences, tell the story of what happened in Hong Kong stocks on October 22.",
+   "What is the difference between a regulatory crackdown and a regulator summoning companies? Which one actually happened?",
+   "Give two arguments FOR trimming a position that is over its limit. Use 'position limit' and 'rebalance'.",
+   "Give two arguments AGAINST trimming right after a sell-off. Use 'overweight' and 'sell into weakness'.",
+   "Why might a cash buffer matter on a day like October 22?",
+   "Pick one piece of news today and say whether it is a fact, an opinion, or a rumor, and why."
+  ],
+  "tip": "Frame both sides: 'On the one hand... On the other hand...' and end with 'The rule says X, but the timing question is Y.' You are practicing argument, not making a decision."
+ },
+ "read": {
+  "title": "Holdings Roundup: Facts, Opinions and Rumors",
+  "text": "Tencent closed at HK$393.8 on October 21, below 400 and near a one-year low. It joined Today AI's funding round of more than 200 million US dollars. DeepSeek's new round of about 100 billion yuan is reportedly near completion, with Tencent and Meituan among the investors. One X post claimed Tencent's valuation is back to 2018 levels with about three times the earnings, but that is an opinion. PDD was summoned by the regulator; a post cited a P/E of about 8 versus a five-year average of 18. Meituan's Keeta sued rival 99Food in Brazil for violating an exclusivity ruling and announced 21 new cities. Xiaomi's Lei Jun said IoT connected devices exceed 1.1 billion and R&D will be over 200 billion yuan in the next five years; Xiaomi EV cumulative deliveries are over 800,000. Zhipu open-sourced GLM 5.3 7B under the MIT license. Some users complain the model got worse, and some expect GLM 5.5, which is only a rumor. Finally, Reuters said ByteDance, Alibaba and Tencent ordered over 3 million Nvidia RTX PRO 5500 chips combined, but Nvidia can meet only 5 to 10 percent.",
+  "vocab": [
+   [
+    "near a one-year low",
+    "接近一年低点",
+    "The stock closed near a one-year low after the sell-off."
+   ],
+   [
+    "funding round",
+    "融资轮",
+    "The start-up raised money in a new funding round."
+   ],
+   [
+    "reportedly",
+    "据报道",
+    "The deal is reportedly near completion."
+   ],
+   [
+    "opinion",
+    "观点（非事实）",
+    "That is an opinion, not a verified number."
+   ],
+   [
+    "summoned",
+    "被（监管）约谈/召集",
+    "Several platforms were summoned by the regulator."
+   ],
+   [
+    "five-year average",
+    "五年均值",
+    "The P/E is below its five-year average."
+   ],
+   [
+    "exclusivity ruling",
+    "排他条款裁决",
+    "They sued for violating an exclusivity ruling."
+   ],
+   [
+    "cumulative deliveries",
+    "累计交付量",
+    "Cumulative deliveries passed a new milestone."
+   ],
+   [
+    "open-sourced",
+    "开源了",
+    "The lab open-sourced its model under the MIT license."
+   ],
+   [
+    "rumor",
+    "传闻",
+    "Treat a rumor as unverified until there is a source."
+   ],
+   [
+    "can meet only",
+    "只能满足",
+    "The supplier can meet only a small part of demand."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Which claim about Tencent is an opinion rather than a fact?",
+    "a": "The X post saying its valuation is back to 2018 with about 3x the earnings."
+   },
+   {
+    "q": "What P/E did a post cite for PDD, and compared with what?",
+    "a": "About 8, versus a five-year average of 18."
+   },
+   {
+    "q": "What did Meituan's Keeta do in Brazil?",
+    "a": "Sued rival 99Food for violating an exclusivity ruling and announced 21 new cities."
+   },
+   {
+    "q": "Is GLM 5.5 confirmed?",
+    "a": "No, it is only a rumor; GLM 5.3 7B was open-sourced under MIT."
+   },
+   {
+    "q": "What share of the Nvidia orders can be met?",
+    "a": "Only 5% to 10% of over 3 million chips."
+   }
+  ]
+ },
+ "write": {
+  "task": "Write a 120–150 word 'end-of-day risk note' in English.\n1) Summarize the October 22 sell-off in two sentences (use: sell-off, summoned, quality control).\n2) List which holdings are over their position limits and by how much, and the cash level vs the buffer.\n3) Present one argument for and one against trimming, without making a recommendation.",
+  "phrases": [
+   "The sell-off was driven mainly by...",
+   "X is overweight at __% versus a __% cap.",
+   "One argument for trimming is that...",
+   "On the other hand, trimming after a sharp drop could...",
+   "Cash stands at __%, below the __% buffer.",
+   "This is a fact / a report / only speculation."
+  ],
+  "feedbackPrompt": "Please correct my English risk note. Point out grammar errors, unnatural phrases, and any place where I state speculation as fact. Then give me a more natural version at B2 level. Do not give investment advice.",
+  "model": "Hong Kong stocks saw a broad sell-off on October 22: the Hang Seng Tech Index closed down 5.03% and the Hang Seng Index fell 3.03%. Bloomberg reported that the market regulator summoned Alibaba, JD, PDD and others to tighten quality control over counterfeit and not-as-described goods. In my portfolio of about HKD 9.35 million, two positions are over their limits. Zhipu is 6.9% against a 5% cap, about HKD 177k over, and Kingsoft Cloud is 9.9% against a 5% cap, about HKD 455k over. Cash is 8.9%, below the 10% buffer. One argument for trimming is that the limits exist to control risk, and rebalancing would also rebuild the cash buffer. On the other hand, trimming right after a sharp drop means selling into weakness. This note frames the trade-off; it is not a decision.",
+  "check": "□ 每个数字都来自素材 □ 区分了 fact / report / speculation □ 用了 overweight、trim、rebalance、cash buffer □ 正反各一点，没写成建议"
+ }
+}
