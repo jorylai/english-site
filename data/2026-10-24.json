@@ -1,0 +1,132 @@
+{
+ "date": "2026-10-24",
+ "level": "B1-B2",
+ "note": "今天主题：美股科技股大跌、亚洲熊市、AI 融资与 OTA 新闻，再回到持仓风控（仓位上限、现金缓冲）。素材来自 10/23 X 新闻简报、情绪日报和持仓快照。区分“事实 / 据报道 / 观点”。仅供语言练习，不构成投资建议。",
+ "listen": {
+  "title": "The Biggest Tech Drop Since June",
+  "rate": 0.9,
+  "text": "US tech stocks fell sharply on October 22. The Nasdaq 100 closed down 2.9 percent, its biggest one-day drop since June 5, and about 1.2 trillion dollars of market value disappeared. On X, people blamed three things: worries about the return on AI capital spending after Meta's earnings, a sell-off in chip stocks, and higher oil prices. Nvidia fell more than 4 percent to about 212 dollars. Apple went the other way and closed at a record high of 348.22 dollars. Fear was everywhere. According to Goldman Sachs data, the ratio of hedge fund short selling to buying was close to a five-year high. CNN's Fear and Greed Index dropped to between 20 and 22, which is called extreme fear. However, views were mixed, because one well-known strategist said on CNBC that the bottom may be near.",
+  "questions": [
+   {
+    "q": "How much did the Nasdaq 100 fall, and why is it notable?",
+    "a": "It fell 2.9%, the biggest one-day drop since June 5; about 1.2 trillion dollars of market value was lost."
+   },
+   {
+    "q": "What three reasons did people on X give?",
+    "a": "Worries about AI capex returns after Meta's earnings, a chip sell-off, and higher oil prices."
+   },
+   {
+    "q": "Which big stock moved the opposite way?",
+    "a": "Apple, which closed at a record 348.22 dollars (Nvidia fell more than 4% to about 212)."
+   },
+   {
+    "q": "What does a Fear and Greed reading of 20 to 22 mean?",
+    "a": "Extreme fear."
+   }
+  ]
+ },
+ "speak": {
+  "prompt": "You are my English speaking coach and a calm risk manager. Context: on October 22 the Nasdaq 100 fell 2.9 percent and Asian stocks had a 'Black Thursday'; the CSI 300 is 20 percent below its June high, which means a bear market. My portfolio is about HKD 9.35 million: Tencent 29.8%, PDD 24.8%, Meituan 9.8%, Alibaba 7.3%, Xiaomi 2.6%, Zhipu 6.9% (1.9 points over a 5% cap), Kingsoft Cloud 9.9% (4.9 points over a 5% cap), and cash 8.9% (1.1 points below a 10% buffer). Ask me the questions below one at a time. I will answer in English. After each answer, correct my grammar, suggest one more natural phrase, and ask one follow-up question. This is language practice only: do not give me investment advice, just help me express ideas clearly.",
+  "questions": [
+   "In three sentences, explain what happened to US tech stocks on October 22. Use 'sell-off' and 'capex'.",
+   "What is a bear market? Why is the CSI 300 called one? Use '20 percent from the high'.",
+   "Explain 'short interest' or the hedge fund short-to-long ratio to a friend. Why can extreme fear be read in two ways?",
+   "Which of these is a fact and which is a report: 'Nvidia fell more than 4%' and 'DeepSeek reportedly raised about 15 billion dollars'? Say why.",
+   "Describe my portfolio risk in English: use 'overweight', 'position limit' and 'cash buffer'. Do not say what I should do.",
+   "Alibaba's score is 0.0, but the sample is small and the claim is denied by Alibaba. How would you talk about this carefully?"
+  ],
+  "tip": "用 'reportedly' / 'according to' 标出非事实；用 'On the one hand... on the other hand...' 讲两面。你在练表达，不是在做决定。"
+ },
+ "read": {
+  "title": "AI Money, Travel and Asian Markets",
+  "text": "OpenAI is close to finishing a funding round of up to 30 billion dollars at a valuation of 1.25 trillion, according to CNBC. DeepSeek reportedly completed a round of about 15 billion dollars, with Tencent and CATL taking part. Anthropic donated Agent Skills to the Agentic AI Foundation. In travel, Mark Zuckerberg said travel is one of the top use cases for Meta's AI agent Muse, and Meta may take a cut of bookings, which some see as potential competition for online travel agencies. American Airlines cut its 2026 outlook, and Airbnb will ban hosts from requiring checkout chores from November 20. In Asia, October 22 was called Black Thursday: the CSI 300 is 20 percent below its June high, so it is in a bear market. On October 23, Hong Kong had a technical rebound, and the Hang Seng Index rose about 0.81 percent. Xiaomi gained more than 5 percent at midday. Alibaba's ADR fell 2.14 percent to 99.64 dollars after a report of a White House memo, which Alibaba denies.",
+  "vocab": [
+   [
+    "according to",
+    "据……报道",
+    "According to CNBC, the deal is close to done."
+   ],
+   [
+    "reportedly",
+    "据报道（未证实）",
+    "The round was reportedly completed last week."
+   ],
+   [
+    "donated",
+    "捐赠了",
+    "The company donated its standard to a foundation."
+   ],
+   [
+    "use cases",
+    "使用场景",
+    "Travel is one of the top use cases for the agent."
+   ],
+   [
+    "take a cut",
+    "抽成",
+    "The platform may take a cut of each booking."
+   ],
+   [
+    "cut its 2026 outlook",
+    "下调 2026 年预期",
+    "The airline cut its outlook because of fuel costs."
+   ],
+   [
+    "bear market",
+    "熊市（较高点跌 20%）",
+    "An index 20 percent below its high is in a bear market."
+   ],
+   [
+    "technical rebound",
+    "技术性反弹",
+    "A technical rebound often follows a sharp fall."
+   ],
+   [
+    "at midday",
+    "午间",
+    "The stock was up more than 5 percent at midday."
+   ],
+   [
+    "denies",
+    "否认",
+    "The company denies the claim."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Which funding news is firmly reported by CNBC, and which is only 'reportedly'?",
+    "a": "OpenAI's round (up to 30 billion at 1.25 trillion) is per CNBC; DeepSeek's round of about 15 billion is reportedly completed."
+   },
+   {
+    "q": "Why does Zuckerberg's comment matter for online travel agencies?",
+    "a": "Muse may take a cut of bookings, which some see as potential competition."
+   },
+   {
+    "q": "What is the Airbnb rule and when does it start?",
+    "a": "Hosts may not require guests to do checkout chores, from November 20."
+   },
+   {
+    "q": "Why is the CSI 300 in a bear market?",
+    "a": "It is 20% below its June high."
+   },
+   {
+    "q": "What happened to Alibaba's ADR on October 23, and who denies the report?",
+    "a": "It fell 2.14% to 99.64 dollars; Alibaba denies the White House memo claim."
+   }
+  ]
+ },
+ "write": {
+  "task": "Write a 120–150 word 'market and portfolio note' in English.\n1) Summarize the October 22 sell-off in two sentences (use: Nasdaq 100, capex, bear market).\n2) Mark one item as a fact and one as 'reportedly' or only a claim.\n3) State which holdings are over their limits and the cash level vs the buffer, without making a recommendation.",
+  "phrases": [
+   "The Nasdaq 100 fell __%, its biggest drop since...",
+   "People on X blamed... / According to...",
+   "X is reportedly... but this is not confirmed.",
+   "X is overweight at __% versus a __% cap.",
+   "Cash stands at __%, below the __% buffer.",
+   "This note describes risk; it is not a decision."
+  ],
+  "feedbackPrompt": "Please correct my English market note. Point out grammar errors, unnatural phrases, and any place where I state a report or claim as fact. Then give me a more natural version at B2 level. Do not give investment advice.",
+  "model": "On October 22 the Nasdaq 100 fell 2.9%, its biggest one-day drop since June, and about 1.2 trillion dollars of market value was lost. People on X blamed worries about AI capex returns after Meta's earnings, a chip sell-off and higher oil prices. Separately, the CSI 300 is 20% below its June high, so it is in a bear market. DeepSeek reportedly completed a round of about 15 billion dollars, but that is a report, not a confirmed fact. In my portfolio of about HKD 9.35 million, Zhipu is 6.9% against a 5% cap, 1.9 points over, and Kingsoft Cloud is 9.9%, 4.9 points over. Cash is 8.9%, 1.1 points below the 10% buffer. This note describes risk and does not recommend any action.",
+  "check": "□ 每个数字都来自素材 □ 区分了 fact / reportedly / claim □ 用了 sell-off、capex、bear market、overweight、cash buffer □ 没写成买卖建议"
+ }
+}
