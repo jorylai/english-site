@@ -1,0 +1,132 @@
+{
+ "date": "2026-10-25",
+ "level": "B1-B2",
+ "note": "今天主题：油价飙升（Brent 116.72）、估值与“便宜为何还跌”、OTA 佣金 vs 直订、情绪分的“小样本”，再用“风险 vs 机会”做观点表达。素材来自 10/24 X 新闻简报、情绪日报和 10/23 持仓快照。区分“事实 / 据报道 / 网友观点”。仅供语言练习，不构成投资建议。",
+ "listen": {
+  "title": "Oil Jumps, Stocks Slip",
+  "rate": 0.9,
+  "text": "Oil moved the markets on Friday. Brent crude closed at 116.72 dollars a barrel, up more than 3 percent and the highest level since April. The reasons were Houthi attacks on Saudi Arabia and fears that the US might strike Iran again. US stocks closed lower: the Dow fell 1.23 percent, the S&P 500 fell 0.52 percent, and the Nasdaq fell 0.21 percent. High oil also weighs on travel. American Airlines expects a loss in 2026, with 7 billion dollars of extra fuel costs this year, and Accor expects a flat fourth quarter. Next week, Microsoft, Google and Amazon report earnings, and the Fed announces its rate decision on Wednesday.",
+  "questions": [
+   {
+    "q": "Where did Brent close, and why is it notable?",
+    "a": "At 116.72 dollars, up more than 3%, the highest since April."
+   },
+   {
+    "q": "What two reasons were given for higher oil?",
+    "a": "Houthi attacks on Saudi Arabia, and fears of another US strike on Iran."
+   },
+   {
+    "q": "Which index fell the most: Dow, S&P 500 or Nasdaq?",
+    "a": "The Dow, down 1.23% (S&P 500 -0.52%, Nasdaq -0.21%)."
+   },
+   {
+    "q": "What is coming next week?",
+    "a": "Microsoft, Google and Amazon earnings, and the Fed rate decision on Wednesday."
+   }
+  ]
+ },
+ "speak": {
+  "prompt": "You are my English speaking coach and a neutral debate partner. Context: on Friday Brent oil closed at 116.72 dollars, the highest since April; the Dow fell 1.23%, the S&P 500 0.52%, the Nasdaq 0.21%. A sentiment report from X (scores 0 to 10) gave Tencent 3.4, PDD 5.7, Meituan 1.3 (small sample, 4 posts), Alibaba 3.3 (small sample), Xiaomi 0.0 (small sample), Zhipu 5.4 (discussion 1.4 times its 7-day average), and Kingsoft Cloud could not be scored. For each stock the report lists a biggest risk and a biggest opportunity. My portfolio is about HKD 9.35 million: Tencent 29.8%, PDD 24.8%, Zhipu 6.9% (cap 5%), Kingsoft Cloud 9.9% (cap 5%), cash 8.9% (buffer 10%). Ask me the questions below one at a time. I answer in English. After each answer, correct my grammar, give one more natural phrase, and ask one follow-up. This is language practice only: no investment advice and no buy or sell views, just help me express ideas clearly.",
+  "questions": [
+   "Explain in two sentences what happened to oil and US stocks on Friday. Use 'Brent' and 'the highest since April'.",
+   "Why can high oil prices hurt airlines and hotels? Use 'fuel costs' and 'weigh on'.",
+   "The report says Tencent and Alibaba look cheap but keep falling. How would you explain 'valuation' and 'cheap does not mean it will rise' to a friend?",
+   "Meituan's score is 1.3, but the sample is only 4 posts. Why is 'small sample' a warning? Say it in three sentences.",
+   "Role-play: pick one stock and say its biggest risk and biggest opportunity from the report. Use 'On the one hand... on the other hand...'.",
+   "Which is a fact and which is a claim: 'Brent closed at 116.72 dollars' and 'a post says PDD's P/E is under 8'? Say why."
+  ],
+  "tip": "“Small sample” = 样本少，只能看方向不能看幅度。用 'according to the report' / 'a post claims' 标出非事实。你在练表达，不是在做决定。"
+ },
+ "read": {
+  "title": "Commission vs Direct Booking",
+  "text": "Skift reports that Wyndham has started feeding its room rates directly to AI booking agents, including Meta's Muse. According to Morgan Stanley data, online travel agencies usually charge hotels 10 to 20 percent per booking, while the cost of a direct booking is about 5 percent. High oil keeps weighing on the travel chain. Accor expects a flat fourth quarter, American Airlines expects a loss in 2026 with 7 billion dollars of extra fuel costs, and JetBlue's creditors are working with restructuring advisers, according to the Wall Street Journal. Airbnb will ban hosts from requiring checkout chores from November 20. Meanwhile, the Kobeissi Letter says the US stock market is worth 350 percent of M2, the highest since the 2000 dot-com bubble. JPMorgan data show retail investors bought nearly 550 million dollars of tech stocks in five days, while Jefferies clients sold more than 1 billion dollars.",
+  "vocab": [
+   [
+    "feeding",
+    "向……输送（数据）",
+    "The hotel is feeding its prices to booking apps."
+   ],
+   [
+    "per booking",
+    "每单",
+    "The agency charges a fee per booking."
+   ],
+   [
+    "direct booking",
+    "直订",
+    "A direct booking costs the hotel less."
+   ],
+   [
+    "weighing on",
+    "拖累、压制",
+    "High oil is weighing on airline profits."
+   ],
+   [
+    "fuel costs",
+    "燃油成本",
+    "Fuel costs rose by billions of dollars."
+   ],
+   [
+    "restructuring",
+    "重组",
+    "The airline is talking to restructuring advisers."
+   ],
+   [
+    "ban hosts from",
+    "禁止房东……",
+    "The rule bans hosts from requiring chores."
+   ],
+   [
+    "retail investors",
+    "散户",
+    "Retail investors bought the dip."
+   ],
+   [
+    "bought nearly",
+    "买入近……",
+    "They bought nearly 550 million dollars of stocks."
+   ],
+   [
+    "more than 1 billion",
+    "超过 10 亿",
+    "Clients sold more than 1 billion dollars."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the cost difference between OTA and direct booking, and who says so?",
+    "a": "OTAs usually charge 10 to 20 percent per booking versus about 5 percent direct, according to Morgan Stanley data."
+   },
+   {
+    "q": "What did Wyndham do, and why might it matter for OTAs?",
+    "a": "It feeds room rates directly to AI booking agents (including Meta's Muse), which may give hotels another route besides OTAs."
+   },
+   {
+    "q": "Which travel companies does high oil weigh on in this text?",
+    "a": "Accor (flat Q4), American Airlines (loss in 2026, 7 billion dollars extra fuel), and JetBlue (creditors working with advisers)."
+   },
+   {
+    "q": "What does 350 percent of M2 describe, and who says it?",
+    "a": "The US stock market's total value relative to M2, the highest since the 2000 dot-com bubble, according to the Kobeissi Letter."
+   },
+   {
+    "q": "How did retail investors and Jefferies clients differ?",
+    "a": "Retail bought nearly 550 million dollars of tech in five days; Jefferies clients sold more than 1 billion dollars."
+   }
+  ]
+ },
+ "write": {
+  "task": "Write a 120–150 word 'oil, valuation and risk' note in English.\n1) Summarize Friday's oil and stock moves in two sentences (use: Brent, the highest since April, Dow).\n2) Pick ONE stock from the sentiment report. Give its score, say if the sample is small, and state its biggest risk and biggest opportunity (label them 'according to the report').\n3) Mention the portfolio cash level vs the buffer, without making a recommendation.",
+  "phrases": [
+   "Brent closed at __ dollars, the highest since...",
+   "The Dow fell __%, while the S&P 500...",
+   "X scored __ out of 10, but the sample is small.",
+   "According to the report, the biggest risk is... and the biggest opportunity is...",
+   "Cash stands at __%, below the __% buffer.",
+   "This note is language practice, not investment advice."
+  ],
+  "feedbackPrompt": "Please correct my English oil-and-risk note. Point out grammar errors, unnatural phrases, and any place where I state a report or a claim as fact. Then give me a more natural B2 version. Do not give investment advice or buy/sell views.",
+  "model": "On Friday Brent oil closed at 116.72 dollars, up more than 3% and the highest since April. US stocks fell: the Dow lost 1.23%, the S&P 500 0.52% and the Nasdaq 0.21%. In a sentiment report from X, Zhipu scored 5.4 out of 10 and discussion was 1.4 times its 7-day average. According to the report, the biggest risk is that product launches got no stock reaction and some posts say the valuation is high; the biggest opportunity is a possible GLM-5.5 release. Meituan scored only 1.3, but the sample was just 4 posts, so the score shows direction, not size. In my portfolio, cash is 8.9%, 1.1 points below the 10% buffer. This note is language practice, not investment advice.",
+  "check": "□ 数字都来自素材 □ 标注了 according to the report / small sample □ 用了 Brent、valuation、risk vs opportunity、cash buffer □ 没写成买卖建议"
+ }
+}
