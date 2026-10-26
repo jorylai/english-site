@@ -1,0 +1,132 @@
+{
+ "date": "2026-10-26",
+ "level": "B1-B2",
+ "note": "今天主题：持仓风控“超限”怎么用英语汇报（overweight / exceed a cap / cash buffer），以及情绪分、回撤（drawdown）、“已确认 vs 单一来源 vs 未证实”。素材来自 10/26 持仓快照（行情为 10/23 收盘）和 10/25 持仓情绪日报。区分“事实 / 据报道 / 网友说法”。仅供语言练习，不构成投资建议，不含买卖建议。",
+ "listen": {
+  "title": "A Risk Report Before the Open",
+  "rate": 0.9,
+  "text": "Here is a risk report before the Hong Kong market opens. Prices are from Friday's close, and total assets are about 9.48 million Hong Kong dollars. Tencent makes up 29.7 percent of the portfolio and PDD makes up 24.4 percent. Two positions exceed their caps. Zhipu is 7.4 percent against a 5 percent cap, so it is over by 2.4 percentage points, about 224,800 Hong Kong dollars. Kingsoft Cloud combined is 10.2 percent against the same 5 percent cap, so it is over by 5.2 points, about 495,000 dollars. Cash is 8.8 percent, which is 1.2 points below the 10 percent buffer. One note: the cash figure of 830,000 comes from an October 13 report, not from today's available balance.",
+  "questions": [
+   {
+    "q": "What is the total value of the portfolio, and whose prices are used?",
+    "a": "About 9.48 million Hong Kong dollars, using prices from Friday's close."
+   },
+   {
+    "q": "Which two positions exceed their caps, and by how much?",
+    "a": "Zhipu by 2.4 percentage points (about 224,800 HKD) and Kingsoft Cloud combined by 5.2 points (about 495,000 HKD)."
+   },
+   {
+    "q": "How does cash compare with the buffer?",
+    "a": "Cash is 8.8 percent, 1.2 points below the 10 percent buffer."
+   },
+   {
+    "q": "Why should we be careful with the cash figure?",
+    "a": "The 830,000 comes from an October 13 report, not today's available balance."
+   }
+  ]
+ },
+ "speak": {
+  "prompt": "You are my English speaking coach and a portfolio manager. Context: I am reporting a risk breach to you in English. Facts from my portfolio snapshot (prices as of Friday's close, Hong Kong pre-open): total about HKD 9.476 million; Tencent 29.7%, PDD 24.4%, Meituan 9.7%, Zhipu 7.4% (cap 5%, over by 2.4 percentage points, about HKD 224,800), Alibaba 7.1%, Xiaomi 2.7%, Kingsoft Cloud combined 10.2% (cap 5%, over by 5.2 points, about HKD 494,766), cash 8.8% (buffer 10%, short by 1.2 points). The cash figure is from an October 13 report. A sentiment report from X (scores 0 to 10) gave Tencent 3.5, PDD 5.4, Meituan 0.0 (small sample), Alibaba 1.9 (discussion 1.54 times its 7-day average), Xiaomi 3.5, Zhipu 3.4, and Kingsoft Cloud could not be scored. Ask me the questions below one at a time. I answer in English. After each answer, correct my grammar, give one more natural phrase, and ask one follow-up as the manager. This is language practice only: no investment advice and no buy or sell views, just help me report clearly.",
+  "questions": [
+   "Give me a 20-second headline: which positions exceed their caps and by how much? Use 'exceed' and 'percentage points'.",
+   "Explain the difference between 'overweight' and 'over the cap' to a friend. Use one example from the portfolio.",
+   "Cash is 8.8% and the buffer is 10%. Say it in two sentences, and mention that the cash number is from an October 13 report.",
+   "Meituan scored 0.0, but the sample is small. Why is that score hard to trust? Use 'small sample' and 'direction, not size'.",
+   "Alibaba's discussion was 1.54 times its 7-day average, yet the report cannot confirm why. How would you say this carefully? Use 'it is unclear whether'.",
+   "Role-play: the manager asks 'What do you need from me?' Ask for a decision on how to handle the breaches, without saying whether to buy or sell."
+  ],
+  "tip": "汇报风控三步：先说结论（which, how much），再说依据（snapshot, cap, buffer），最后说不确定处（the cash figure is from October 13）。“pp / percentage points”是百分点，不是百分比。你在练表达，不是在做决定。"
+ },
+ "read": {
+  "title": "Confirmed, Single-Source, or Unverified?",
+  "text": "A sentiment report from X scored six stocks from 0 to 10. Tencent scored 3.5, PDD 5.4, Alibaba 1.9, Xiaomi 3.5 and Zhipu 3.4. Meituan scored 0.0, but the sample was small, so the score is extreme and not very useful. Kingsoft Cloud could not be scored because the report found no related posts. One big account listed the drawdown of the Hong Kong Seven Sisters from their highs: Tencent -44 percent, Alibaba -34 percent, Meituan -32 percent and Xiaomi -58 percent. That single post counted for four stocks and pulled scores down. Some items are confirmed: Temu reached a 3 million dollar privacy settlement with Texas, and Keeta expanded to 21 new cities in Brazil with a 5-year pledge of 5.6 billion reais. Others are not. A claim that Temu's European monthly users fell more than 40 percent after the EU small-parcel tariff comes from a single source. A rumor about Alibaba's own chip is unconfirmed, and a claim that Xiaomi 18 sales are below its predecessor is unverified.",
+  "vocab": [
+   [
+    "the sample was small",
+    "样本很少",
+    "The sample was small, so be careful."
+   ],
+   [
+    "could not be scored",
+    "无法评分",
+    "The stock could not be scored."
+   ],
+   [
+    "drawdown",
+    "回撤（自高点的跌幅）",
+    "The drawdown from the high was large."
+   ],
+   [
+    "from their highs",
+    "自高点算起",
+    "Shares fell 30 percent from their highs."
+   ],
+   [
+    "pulled scores down",
+    "拉低了分数",
+    "One angry post pulled scores down."
+   ],
+   [
+    "privacy settlement",
+    "隐私和解",
+    "The firm agreed to a privacy settlement."
+   ],
+   [
+    "pledge",
+    "承诺（投入）",
+    "They made a five-year pledge."
+   ],
+   [
+    "a single source",
+    "单一来源",
+    "The number comes from a single source."
+   ],
+   [
+    "unconfirmed",
+    "未经证实的",
+    "The rumor is still unconfirmed."
+   ],
+   [
+    "unverified",
+    "未核实的",
+    "The claim is unverified."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Why is Meituan's 0.0 score not very useful?",
+    "a": "The sample was small, so the score is extreme."
+   },
+   {
+    "q": "What does the Seven Sisters post say, and why did it matter for the scores?",
+    "a": "It listed drawdowns from highs (Tencent -44%, Alibaba -34%, Meituan -32%, Xiaomi -58%); it counted for four stocks and pulled scores down."
+   },
+   {
+    "q": "Which items in the text are confirmed?",
+    "a": "Temu's 3 million dollar privacy settlement with Texas, and Keeta's expansion to 21 new cities in Brazil with a 5-year, 5.6 billion reais pledge."
+   },
+   {
+    "q": "Which claims are single-source, unconfirmed or unverified?",
+    "a": "Temu Europe users down more than 40% (single source); Alibaba's own-chip rumor (unconfirmed); Xiaomi 18 sales below its predecessor (unverified)."
+   },
+   {
+    "q": "Why could Kingsoft Cloud not be scored?",
+    "a": "The report found no related posts."
+   }
+  ]
+ },
+ "write": {
+  "task": "Write a 120–150 word risk-breach note in English.\n1) Report the two cap breaches (Zhipu and Kingsoft Cloud combined) with the percentages, the cap and the gap in percentage points.\n2) State the cash level vs the buffer, and mention that the cash number is from an October 13 report.\n3) Pick ONE claim from the sentiment report and label it correctly (confirmed / single source / unconfirmed / unverified). Do not give buy or sell advice.",
+  "phrases": [
+   "Zhipu is __%, which exceeds the __% cap by __ percentage points.",
+   "Kingsoft Cloud combined stands at __%, over the cap by __ points.",
+   "Cash is __%, below the __% buffer.",
+   "The cash figure is from an October 13 report, not today's balance.",
+   "The claim that ... comes from a single source / is unverified.",
+   "This note is language practice, not investment advice."
+  ],
+  "feedbackPrompt": "Please correct my English risk-breach note. Point out grammar errors, unnatural phrases, and any place where I state a claim, rumor or single-source report as fact. Then give me a more natural B2 version. Do not give investment advice or buy/sell views.",
+  "model": "As of Friday's close, two positions exceed their caps. Zhipu is 7.4% of the portfolio against a 5% cap, so it is over by 2.4 percentage points, about HKD 224,800. Kingsoft Cloud combined is 10.2% against the same cap, over by 5.2 points, about HKD 494,766. Cash is 8.8%, which is 1.2 points below the 10% buffer, but that figure comes from an October 13 report, not today's available balance. In the sentiment report, a claim that Xiaomi 18 sales are below its predecessor is unverified, so I would not treat it as fact. This note is language practice, not investment advice.",
+  "check": "□ 数字都来自素材 □ 写了 cap / percentage points / buffer □ 说明现金数是 10/13 的报告数 □ 标注了 unverified / single source □ 没写成买卖建议"
+ }
+}
