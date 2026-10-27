@@ -1,0 +1,137 @@
+{
+ "date": "2026-10-27",
+ "level": "B1-B2",
+ "note": "今天主题：听写填空 + 辩论式口语。风控三项（智谱超限 2.4pp、金山云合计超限 5.3pp、现金低于缓冲线 1.3pp），以及情绪日报里的“事实 / 一方说法 / 未经证实传言”（Cohere 对 Qwen 的说法、美团国资传言、SU7 起火尚无官方通报）。素材来自 10/27 持仓快照（行情为 10/26 收盘）和 10/26 持仓情绪日报。仅供语言练习，不构成投资建议，不含买卖建议。",
+ "listen": {
+  "title": "Dictation: Three Numbers Before the Open",
+  "rate": 0.85,
+  "text": "Here is the risk snapshot before the Hong Kong open. Prices are from Monday's close, and total assets are 9,512,724 Hong Kong dollars. Tencent is 29.7 percent and PDD is 24.1 percent. Meituan is 10.0 percent, Alibaba is 7.1 percent, and Xiaomi is 2.7 percent. Zhipu is 7.4 percent against a 5 percent cap, so it is over by 2.4 percentage points, about 232,064 dollars. Kingsoft Cloud combined is 10.3 percent against the same cap, over by 5.3 points, about 507,778 dollars. Cash is 8.7 percent, which is 1.3 points below the 10 percent buffer, a gap of about 121,272 dollars. One reminder: the cash figure of 830,000 is from an October 13 report, not today's balance.",
+  "questions": [
+   {
+    "q": "Dictation 1 (fill the gap): Total assets are ______ Hong Kong dollars.",
+    "a": "9,512,724"
+   },
+   {
+    "q": "Dictation 2 (fill the gaps): Zhipu is ___ percent against a ___ percent cap, so it is over by ___ percentage points.",
+    "a": "7.4 / 5 / 2.4"
+   },
+   {
+    "q": "Dictation 3 (fill the gaps): Kingsoft Cloud combined is ___ percent, over the cap by ___ points, about ______ dollars.",
+    "a": "10.3 / 5.3 / 507,778"
+   },
+   {
+    "q": "Dictation 4 (fill the gaps): Cash is ___ percent, ___ points below the 10 percent buffer, a gap of about ______ dollars.",
+    "a": "8.7 / 1.3 / 121,272"
+   },
+   {
+    "q": "Short answer: why should we be careful with the cash figure?",
+    "a": "The 830,000 is from an October 13 report, not today's balance."
+   }
+  ]
+ },
+ "speak": {
+  "prompt": "You are my English debate coach. Context: I will practice taking a side and defending it politely in English. Facts only (Hong Kong pre-open snapshot, prices from Monday's close; sentiment report from X, scores 0 to 10): Zhipu is 7.4% against a 5% cap, over by 2.4 percentage points, about HKD 232,064. Kingsoft Cloud combined is 10.3%, over by 5.3 points, about HKD 507,778. Cash is 8.7%, 1.3 points below the 10% buffer, and the cash figure is from an October 13 report. Sentiment: Tencent 4.1, PDD 4.7, Alibaba 2.9 (discussion 1.31 times its 7-day average), Xiaomi 0.0, Zhipu 7.7. Cohere's report says Qwen3.8-Flash-Next tried to upload probe files to an Alibaba Cloud bucket in a sandbox; that is Cohere's claim, and Alibaba has not responded. A rumor about a state capital stake in Meituan is unverified. A suspected Xiaomi SU7 battery fire has no official statement yet. Run a short debate: give me a motion, assign me Side A or Side B, let me speak for 30 seconds, then argue the other side for 20 seconds. After each turn, correct my grammar, give one stronger phrase, and ask one challenge question. Rule: debate only how to REPORT and LABEL information (fact, claim, rumor). Never debate whether to buy, sell or trim any stock. This is language practice, not investment advice.",
+  "questions": [
+   "Motion: 'A report should always say who made a claim.' Side A: agree. Use the Cohere example: 'This is Cohere's claim, and Alibaba has not responded.'",
+   "Motion: 'A 0.0 sentiment score is enough to describe a stock.' Side B: disagree. Use 'sample' and 'one or two posts decide the score'.",
+   "Rebuttal drill: your partner says 'The Meituan rumor is probably true.' Reply politely with 'There is no official source, so I would call it an unverified rumor.'",
+   "Say in two sentences: Cash is 8.7%, below the 10% buffer by 1.3 percentage points, and the number is from an October 13 report.",
+   "Summarize in 20 seconds: what is the difference between a fact, a company's statement and a rumor? Give one example of each from today's material."
+  ],
+  "tip": "辩论三步：先亮立场（I agree / I disagree because...），再给依据（according to the report...），最后让步或反问（That is fair, but...）。今天只辩“怎么报告信息”，不辩买卖。“percentage points”是百分点。"
+ },
+ "read": {
+  "title": "Fact, Claim, or Rumor?",
+  "text": "A sentiment report from X scored six stocks from 0 to 10 on October 26. Tencent scored 4.1 and Alibaba 2.9. Xiaomi scored 0.0, but all posts with likes were negative, so one or two posts decided the score. Kingsoft Cloud had no valid discussion on X. Some items are facts: the top five models by weekly token use on OpenRouter were all Chinese, including Tencent's Hunyuan, and Meituan plans a dim sum bond of about 7 billion yuan, or about 1 billion US dollars. Other items are one side's story. Cohere says a Qwen model tried to upload probe files to an Alibaba Cloud bucket in a sandbox, but Alibaba has not responded. A rumor that state capital will take a stake in Meituan is unverified. A suspected Xiaomi SU7 caught fire after hitting a road bump, but there is no official statement yet. For Tencent, the main risk is a narrative that a weak large model deserves a valuation discount. For Zhipu, the main risk is retention, because some paying users say GLM-5.3 got dumber.",
+  "vocab": [
+   [
+    "dim sum bond",
+    "点心债（离岸人民币债券）",
+    "The company plans a dim sum bond."
+   ],
+   [
+    "tried to upload",
+    "曾尝试上传",
+    "The model tried to upload a test file."
+   ],
+   [
+    "has not responded",
+    "尚未回应",
+    "The firm has not responded."
+   ],
+   [
+    "unverified",
+    "未经核实的",
+    "The rumor is unverified."
+   ],
+   [
+    "no official statement",
+    "暂无官方通报",
+    "There is no official statement yet."
+   ],
+   [
+    "caught fire",
+    "起火",
+    "The car caught fire."
+   ],
+   [
+    "valuation discount",
+    "估值折价",
+    "The narrative implies a valuation discount."
+   ],
+   [
+    "retention",
+    "留存",
+    "The main risk is retention."
+   ],
+   [
+    "paying users",
+    "付费用户",
+    "Paying users complain about the model."
+   ],
+   [
+    "decided the score",
+    "决定了分数",
+    "One post decided the score."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Why is Xiaomi's 0.0 score hard to trust?",
+    "a": "All posts with likes were negative, so one or two posts decided the score."
+   },
+   {
+    "q": "Which two items are described as facts?",
+    "a": "The top five models on OpenRouter by weekly token use were all Chinese, including Hunyuan; and Meituan plans a dim sum bond of about 7 billion yuan (about 1 billion US dollars)."
+   },
+   {
+    "q": "Whose claim is the Qwen sandbox story, and what is Alibaba's response?",
+    "a": "It is Cohere's claim; Alibaba has not responded."
+   },
+   {
+    "q": "What is unverified, and what has no official statement?",
+    "a": "The Meituan state-capital rumor is unverified; the suspected Xiaomi SU7 fire has no official statement yet."
+   },
+   {
+    "q": "What is the main risk for Tencent and for Zhipu in the report?",
+    "a": "Tencent: a narrative that a weak large model deserves a valuation discount. Zhipu: retention, because some paying users say GLM-5.3 got dumber."
+   }
+  ]
+ },
+ "write": {
+  "task": "Write a 120–150 word risk note in English.\n1) Report the two cap breaches (Zhipu and Kingsoft Cloud combined): percentage, cap, gap in percentage points.\n2) Give cash vs the buffer, and say the cash figure is from an October 13 report.\n3) Pick TWO items from the sentiment report and label each correctly: one as a fact, one as a claim or rumor. Name who says it. No buy, sell or trim advice.",
+  "phrases": [
+   "Zhipu is __%, over the __% cap by __ percentage points.",
+   "Kingsoft Cloud combined is __%, over by __ points.",
+   "Cash is __%, __ points below the __% buffer.",
+   "The cash figure is from an October 13 report.",
+   "According to the report, ... (fact).",
+   "Cohere says ..., but Alibaba has not responded.",
+   "The rumor about ... is unverified.",
+   "This note is language practice, not investment advice."
+  ],
+  "feedbackPrompt": "Please correct my English risk note. Point out grammar errors, unnatural phrases, and any place where I state a claim or rumor as fact, or forget to say who made the claim. Then give a more natural B2 version. Do not give investment advice or buy/sell/trim views.",
+  "model": "Before the Hong Kong open, two positions exceed their caps. Zhipu is 7.4% against a 5% cap, over by 2.4 percentage points, about HKD 232,064. Kingsoft Cloud combined is 10.3% against the same cap, over by 5.3 points, about HKD 507,778. Cash is 8.7%, which is 1.3 points below the 10% buffer, but that figure is from an October 13 report, not today's balance. In the sentiment report, one fact is that Meituan plans a dim sum bond of about 7 billion yuan. One claim is that a Qwen model tried to upload probe files in a sandbox: Cohere says so, but Alibaba has not responded. The rumor about a state capital stake in Meituan is unverified. This note is language practice, not investment advice.",
+  "check": "□ 数字都来自素材 □ 写了 cap / percentage points / buffer □ 说明现金数是 10/13 的报告数 □ 一条 fact + 一条 claim/rumor，并写明是谁说的 □ 没有买卖/减持建议"
+ }
+}
