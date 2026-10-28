@@ -1,0 +1,98 @@
+{
+ "date": "2026-10-28",
+ "level": "B1-B2",
+ "note": "今天主题：听写+理解混合 + 新闻台口语。持仓（智谱超限 3.1pp、金山云合计超限 5.2pp、现金低于缓冲线 1.3pp）+ X 简报的科学主张（待独立审查）、数据中心融资、折叠屏与 OTA。情绪点缀：美团点心债约 12 亿美元超订。素材：10/28 持仓快照（行情 10/27 收盘）与 10/27 X 简报。仅供语言练习，不构成投资建议。",
+ "listen": {
+  "title": "Mixed Drill: Snapshot Numbers + One Claim",
+  "rate": 0.85,
+  "text": "This is the Hong Kong pre-open snapshot. Prices are from Tuesday's close, the USDHKD rate is 7.8448, and total assets are 9,518,032 Hong Kong dollars. Tencent is 29.5 percent, PDD is 24.1 percent, Meituan is 9.7 percent, Alibaba is 7.1 percent, and Xiaomi is 2.6 percent. All five are within their caps. Zhipu is 8.1 percent against a 5 percent cap, over by 3.1 percentage points, about 294,798 dollars. Kingsoft Cloud combined is 10.2 percent against the same cap, over by 5.2 points, about 490,652 dollars. Cash is 8.7 percent, 1.3 points below the 10 percent buffer, short by about 121,803 dollars. The cash figure of 830,000 is from an October 13 report, not today's available balance. Separately, OpenAI says its models scored three scientific results, including a sub-exponential algorithm for 3-SAT. Both OpenAI and Anthropic say they got similar results, and both claims await independent review.",
+  "questions": [
+   {
+    "q": "Dictation 1: Total assets are ______ Hong Kong dollars; USDHKD is ______.",
+    "a": "9,518,032 / 7.8448"
+   },
+   {
+    "q": "Dictation 2: Zhipu is ___ percent against a ___ percent cap, over by ___ percentage points, about ______ dollars.",
+    "a": "8.1 / 5 / 3.1 / 294,798"
+   },
+   {
+    "q": "Dictation 3: Kingsoft Cloud combined is ___ percent, over by ___ points, about ______ dollars.",
+    "a": "10.2 / 5.2 / 490,652"
+   },
+   {
+    "q": "Comprehension: Which five holdings are within caps, and their weights?",
+    "a": "Tencent 29.5%, PDD 24.1%, Meituan 9.7%, Alibaba 7.1%, Xiaomi 2.6%."
+   },
+   {
+    "q": "Comprehension: What do OpenAI and Anthropic claim, and what status do both share?",
+    "a": "Scientific results on a sub-exponential 3-SAT algorithm; both await independent review."
+   }
+  ]
+ },
+ "speak": {
+  "prompt": "You are my English news-desk coach. I host a short morning desk. Facts only: Hong Kong pre-open (prices from Tuesday's close; USDHKD 7.8448; total HKD 9,518,032). Zhipu 8.1% vs 5% cap (+3.1pp, about HKD 294,798). Kingsoft Cloud combined 10.2% vs 5% (+5.2pp, about HKD 490,652). Cash 8.7%, 1.3 points below the 10% buffer, short about HKD 121,803; cash figure from an October 13 report. X brief: OpenAI claims three scientific results including a sub-exponential 3-SAT algorithm; Anthropic says Claude got a similar result with a Lean 4 proof; both await independent review. Meta plans a stock sale of up to 95 billion dollars for AI data centers. Broadcom reportedly arranged about 63 billion dollars of financing for Anthropic. Apple admits a small number of foldable iPhone Duo inner screens cracked. MakeMyTrip gross bookings rose 21%. A discussion says 56% of active US travelers used AI to plan — one account's view. Meituan's dim sum bond of about 1.2 billion dollars was oversubscribed. Run the desk: give a headline, let me speak 40 seconds, ask one follow-up. Correct grammar, give one sharper phrase, push fact vs claim. Never give buy/sell/trim advice. Language practice only, not investment advice.",
+  "questions": [
+   "Open in 20 seconds: total assets, two cap breaches in percentage points, cash vs the buffer.",
+   "Lead: 'OpenAI and Anthropic claim a 3-SAT breakthrough.' Why must you add 'await independent review'?",
+   "Compare in 30 seconds: Meta's stock sale up to 95 billion dollars vs Broadcom's reported 63 billion arrangement. Mark 'reportedly'.",
+   "Guest says '56% of travelers use AI, so OTAs are finished.' Reply that the figure is one account's view.",
+   "Close in 15 seconds: MakeMyTrip (+21% gross bookings) and Apple admitting cracked foldable screens. No stock advice."
+  ],
+  "tip": "新闻台三步：先报事实，再标标签（claim / reportedly），最后不给建议。“percentage points”是百分点；“oversubscribed”是超订。"
+ },
+ "read": {
+  "title": "Claims, Financing, and Travel Numbers",
+  "text": "Monday's X brief mixed hard numbers with claims that still need checks. OpenAI says its models produced three scientific results, including a sub-exponential algorithm for 3-SAT that, if true, may challenge the exponential-time hypothesis. Anthropic researchers say Claude independently reached a similar result and attached a Lean 4 proof. Both claims await independent review. On products, OpenAI released GPT-6.1 Terra for cheaper computer use, and Google plans to bring Gemini 4 Argon to the Antigravity IDE. In tech finance, Meta plans a stock sale raising up to 95 billion dollars for AI data centers, and Broadcom reportedly arranged about 63 billion dollars of financing to serve Anthropic. Apple admits a small number of foldable iPhone Duo inner screens cracked. In travel, MakeMyTrip said gross bookings rose 21 percent, and Airbnb will limit checkout cleaning requirements. One discussion says 56 percent of active US travelers used AI to plan a trip, but that is one account's view. Separately, Reuters reported Meituan's dim sum bond of about 1.2 billion dollars was oversubscribed. The STAR 50 index is about 40 percent off its highs.",
+  "vocab": [
+   ["await independent review", "等待独立审查", "Both claims await independent review."],
+   ["sub-exponential", "次指数的", "They claim a sub-exponential algorithm."],
+   ["data centers", "数据中心", "The funds would support AI data centers."],
+   ["reportedly", "据报道", "Broadcom reportedly arranged the financing."],
+   ["foldable", "可折叠的", "A few foldable screens cracked."],
+   ["gross bookings", "总预订额", "Gross bookings rose 21 percent."],
+   ["dim sum bond", "点心债（离岸人民币债券）", "The dim sum bond was oversubscribed."],
+   ["oversubscribed", "超订的", "The bond was oversubscribed."],
+   ["one account's view", "单一账号的观点", "That figure is one account's view."],
+   ["off its highs", "自高点回落", "The index is about 40 percent off its highs."]
+  ],
+  "questions": [
+   {
+    "q": "What do OpenAI and Anthropic claim, and what status do the claims share?",
+    "a": "A sub-exponential 3-SAT result (Anthropic cites a Lean 4 proof); both await independent review."
+   },
+   {
+    "q": "Name the two financing stories; which is marked 'reportedly'?",
+    "a": "Meta stock sale up to 95 billion for AI data centers; Broadcom reportedly ~63 billion financing for Anthropic."
+   },
+   {
+    "q": "What did Apple admit about the foldable iPhone Duo?",
+    "a": "A small number of inner screens cracked."
+   },
+   {
+    "q": "Which travel figure is a company number, and which is one account's view?",
+    "a": "MakeMyTrip gross bookings +21%; the 56% AI-planning figure is one account's view."
+   },
+   {
+    "q": "What did Reuters report about Meituan's bond?",
+    "a": "A dim sum bond of about 1.2 billion dollars was oversubscribed."
+   }
+  ]
+ },
+ "write": {
+  "task": "Write a 120–150 word morning desk note.\n1) Total assets + two cap breaches (Zhipu; Kingsoft Cloud combined): %, cap, gap in percentage points. Cash vs buffer; cash figure from an October 13 report.\n2) One OpenAI/Anthropic claim; say both await independent review.\n3) One financing or OTA fact (Meta, Broadcom, MakeMyTrip, or Meituan dim sum bond). Use 'reportedly' if needed. No buy/sell/trim advice.",
+  "phrases": [
+   "Total assets are about HKD ______.",
+   "Zhipu is __%, over the __% cap by __ percentage points.",
+   "Kingsoft Cloud combined is __%, over by __ points.",
+   "Cash is __%, __ points below the __% buffer.",
+   "The cash figure is from an October 13 report.",
+   "OpenAI claims ..., and Anthropic says ...; both await independent review.",
+   "Meta plans a stock sale of up to __ billion dollars for AI data centers.",
+   "Broadcom reportedly arranged about __ billion dollars of financing.",
+   "This note is language practice, not investment advice."
+  ],
+  "feedbackPrompt": "Correct my English morning desk note. Flag grammar, unnatural phrases, and any place I state a claim as fact or forget 'reportedly' / 'await independent review'. Give a natural B2 rewrite. No investment advice or buy/sell/trim views.",
+  "model": "Before the Hong Kong open, total assets are about HKD 9,518,032. Zhipu is 8.1% against a 5% cap, over by 3.1 percentage points, about HKD 294,798. Kingsoft Cloud combined is 10.2% against the same cap, over by 5.2 points, about HKD 490,652. Cash is 8.7%, 1.3 points below the 10% buffer, but that figure is from an October 13 report. OpenAI claims three scientific results including a sub-exponential 3-SAT algorithm, and Anthropic says Claude reached a similar result with a Lean 4 proof; both claims await independent review. Meta plans a stock sale of up to 95 billion dollars for AI data centers, while Broadcom reportedly arranged about 63 billion dollars of financing to serve Anthropic. This note is language practice, not investment advice.",
+  "check": "□ 数字来自素材 □ 写了 cap / percentage points / buffer □ 现金是 10/13 报告数 □ claim + await independent review □ financing/OTA 标签正确 □ 无买卖建议"
+ }
+}
