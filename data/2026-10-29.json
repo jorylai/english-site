@@ -1,0 +1,138 @@
+{
+ "date": "2026-10-29",
+ "level": "B1-B2",
+ "note": "今天主题：用英语转述风控备忘录（只练报告语言，不背书）+ Meta 股权融资与 Airbnb 临时号码。持仓约 HKD 9,564,301；智谱 8.4% 超限 3.4pp、金山云合计 10.2% 超限 5.2pp、现金 8.7% 低于缓冲线 1.3pp。素材：10/29 持仓与风控、10/28 X 简报与情绪。仅供语言练习，不构成投资建议。",
+ "listen": {
+  "title": "What the Risk Memo Says (Report Only)",
+  "rate": 0.85,
+  "text": "This is how you report a risk memo in English, without endorsing it. Before the Hong Kong open, prices are from Wednesday's close, USDHKD is 7.8445, and total assets are 9,564,301 Hong Kong dollars. Tencent is 29.6 percent, PDD is 24.0 percent, Meituan is 9.5 percent, Alibaba is 7.1 percent, and Xiaomi is 2.6 percent. The memo flags two hard breaches: Zhipu is 8.4 percent against a 5 percent position limit, overweight by 3.4 percentage points, about 321,885 dollars. Kingsoft Cloud combined is 10.2 percent against the same cap, overweight by 5.2 points, about 496,505 dollars. Cash is 8.7 percent, 1.3 points below the 10 percent cash buffer, short by about 126,430 dollars. The memo says Kingsoft Cloud and Zhipu must be trimmed at least to 5 percent, plans to cut Alibaba to about 4 percent, and marks GOOGL as do-not-buy for now. It also says suggest no new orders — a paraphrase of the memo, not advice from this practice.",
+  "questions": [
+   {
+    "q": "Dictation: Total assets are ______ Hong Kong dollars; USDHKD is ______.",
+    "a": "9,564,301 / 7.8445"
+   },
+   {
+    "q": "Dictation: Zhipu is ___ percent against a ___ percent position limit, overweight by ___ percentage points, about ______ dollars.",
+    "a": "8.4 / 5 / 3.4 / 321,885"
+   },
+   {
+    "q": "Dictation: Kingsoft Cloud combined is ___ percent, overweight by ___ points, about ______ dollars.",
+    "a": "10.2 / 5.2 / 496,505"
+   },
+   {
+    "q": "Comprehension: How does the memo describe Alibaba and GOOGL?",
+    "a": "Plans to cut Alibaba to about 4%; GOOGL is do-not-buy for now."
+   },
+   {
+    "q": "Comprehension: What closing line keeps this as language practice?",
+    "a": "It is a paraphrase of the memo, not advice from this practice."
+   }
+  ]
+ },
+ "speak": {
+  "prompt": "You are my English risk-memo coach. I paraphrase a Chinese risk memo — label, never endorse. Facts (HK pre-open; Wednesday's close; USDHKD 7.8445; total HKD 9,564,301): Zhipu 8.4% vs 5% position limit (+3.4pp, ~HKD 321,885). Kingsoft Cloud combined 10.2% vs 5% (+5.2pp, ~HKD 496,505). Cash 8.7%, 1.3 points below the 10% cash buffer, short ~HKD 126,430; cash from an October 13 report. Memo wording: must trim Kingsoft Cloud and Zhipu at least to 5%; plan to cut Alibaba to ~4%; GOOGL do-not-buy now; suggest no new orders. X brief: Meta revised its AI infrastructure equity raise to ~97.5 billion dollars; AMD invests 1 billion. OpenAI reportedly plans to buy Google TPUs. Airbnb will issue temporary phone numbers in the US and Canada. Sentiment: Tencent 3.6 ('Baidu-ization'); Meituan 9.4 (small sample); Zhipu 8.5. Drill: framing → 40 seconds → one follow-up. Prefer According to the memo.... Never turn the memo into advice. Language practice only, not investment advice.",
+  "questions": [
+   "Open in 20 seconds with 'According to the risk memo...': two position-limit breaches and cash vs the buffer.",
+   "Explain 'overweight' and 'trim' with Zhipu's numbers. End: 'I am reporting the memo, not giving advice.'",
+   "Guest: 'So should we sell Alibaba?' Reply: the memo plans a cut to about 4%; this practice does not endorse trades.",
+   "In 30 seconds: Meta's equity raise (~97.5 billion) and AMD's 1 billion. Mark OpenAI's TPU plan as 'reportedly'.",
+   "Close in 15 seconds: Tencent sentiment 3.6 vs Meituan 9.4 (small sample). No buy/sell lines."
+  ],
+  "tip": "转述：According to the risk memo... / The memo flags... / I am paraphrasing, not advising。“position limit”仓位上限；“cash buffer”现金缓冲；“reportedly”标传闻。"
+ },
+ "read": {
+  "title": "Equity Raises, Booking Agents, and a Risk Memo",
+  "text": "Wednesday's X brief mixed large financing headlines with travel rules. Meta revised its AI infrastructure equity raise to about 97.5 billion dollars, and AMD said it will invest 1 billion dollars. Separately, OpenAI reportedly plans to buy Google TPUs; the amount was not disclosed. Anthropic said Claude is available to US government users at 40 percent off under OneGov. In travel, Airbnb will stop hosts from requiring big checkout chores for stays booked after November 20, and it will issue temporary phone numbers in the US and Canada. Hilton says it is working with AI booking agents; Skift notes Booking's AI-driven room nights are still under 1 percent. The Federal Reserve was due to announce its rate decision the same day. One account said the S&P excluding AI outperformed the full index by about 6.4 percentage points in October. A same-day risk memo, before the Hong Kong open, said Zhipu was overweight versus its 5 percent position limit and cash was below the 10 percent cash buffer; that memo is language practice material here, not advice. On sentiment, Tencent scored 3.6 with a 'Baidu-ization' narrative, Meituan 9.4 on a small sample, and Zhipu 8.5 after a Tang Jie lecture and a fake 5.5 page was debunked. Kingsoft Cloud had almost no discussion. Xiaomi was dragged by a Yu7 out-of-control video.",
+  "vocab": [
+   [
+    "equity raise",
+    "股权融资",
+    "Meta revised its equity raise."
+   ],
+   [
+    "reportedly",
+    "据报道",
+    "OpenAI reportedly plans to buy Google TPUs."
+   ],
+   [
+    "booking agents",
+    "预订代理",
+    "Hilton is working with AI booking agents."
+   ],
+   [
+    "temporary phone numbers",
+    "临时电话号码",
+    "Airbnb will issue temporary phone numbers."
+   ],
+   [
+    "position limit",
+    "仓位上限",
+    "Zhipu was overweight versus its position limit."
+   ],
+   [
+    "overweight",
+    "超配/超限",
+    "The name was overweight versus its cap."
+   ],
+   [
+    "cash buffer",
+    "现金缓冲",
+    "Cash was below the cash buffer."
+   ],
+   [
+    "sentiment",
+    "情绪（分）",
+    "Tencent sentiment scored 3.6."
+   ],
+   [
+    "small sample",
+    "样本少",
+    "Meituan's 9.4 is on a small sample."
+   ],
+   [
+    "out-of-control",
+    "失控的",
+    "A Yu7 out-of-control video circulated."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What size is Meta's revised equity raise, and what did AMD announce?",
+    "a": "About 97.5 billion dollars; AMD invests 1 billion dollars."
+   },
+   {
+    "q": "Which OpenAI plan is marked 'reportedly', and what is missing?",
+    "a": "Plans to buy Google TPUs; the amount was not disclosed."
+   },
+   {
+    "q": "Name two Airbnb changes in the brief.",
+    "a": "No big checkout chores after Nov 20 bookings; temporary phone numbers in the US and Canada."
+   },
+   {
+    "q": "What did the same-day risk memo say about Zhipu and cash?",
+    "a": "Zhipu overweight vs its 5% position limit; cash below the 10% cash buffer."
+   },
+   {
+    "q": "Give three sentiment scores and the label needed for Meituan.",
+    "a": "Tencent 3.6, Meituan 9.4 (small sample), Zhipu 8.5."
+   }
+  ]
+ },
+ "write": {
+  "task": "Write a 120–150 word English paraphrase of a risk memo.\n1) Total assets + two position-limit breaches (Zhipu; Kingsoft Cloud combined): %, cap, gap in percentage points. Cash vs cash buffer; cash figure from an October 13 report.\n2) Report memo wording (trim at least to 5%; Alibaba plan ~4%; GOOGL do-not-buy; suggest no new orders) with 'According to the memo...' — do not endorse.\n3) One X-brief fact (Meta equity raise or OpenAI TPUs with 'reportedly'). End: language practice, not investment advice.",
+  "phrases": [
+   "According to the risk memo,...",
+   "Total assets are about HKD ______.",
+   "Zhipu is __%, overweight versus the __% position limit by __ percentage points.",
+   "Kingsoft Cloud combined is __%, overweight by __ points.",
+   "Cash is __%, __ points below the __% cash buffer.",
+   "The memo says ... must be trimmed at least to 5%.",
+   "Meta revised its equity raise to about __ billion dollars.",
+   "OpenAI reportedly plans to buy Google TPUs.",
+   "I am paraphrasing the memo, not giving advice."
+  ],
+  "feedbackPrompt": "Correct my English paraphrase of a risk memo. Flag grammar, unnatural phrases, and any place I turn the memo into my own buy/sell advice. Prefer: The memo states / According to the memo / The memo flags. Give a natural B2 rewrite. No investment advice.",
+  "model": "According to the risk memo, before the Hong Kong open total assets are about HKD 9,564,301. Zhipu is 8.4% against a 5% position limit, overweight by 3.4 percentage points, about HKD 321,885. Kingsoft Cloud combined is 10.2% against the same cap, overweight by 5.2 points, about HKD 496,505. Cash is 8.7%, 1.3 points below the 10% cash buffer, but that figure is from an October 13 report. The memo says Kingsoft Cloud and Zhipu must be trimmed at least to 5%, plans to cut Alibaba to about 4%, marks GOOGL as do-not-buy for now, and suggests no new orders. Separately, Meta revised its AI infrastructure equity raise to about 97.5 billion dollars, while OpenAI reportedly plans to buy Google TPUs. I am paraphrasing the memo, not giving advice. This note is language practice, not investment advice.",
+  "check": "□ 数字来自素材 □ According to the memo □ position limit / overweight / cash buffer □ 现金是 10/13 报告数 □ reportedly 用在 OpenAI TPU □ 无个人买卖建议 □ 结尾声明仅供语言练习"
+ }
+}
