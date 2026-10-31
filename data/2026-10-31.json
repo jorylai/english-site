@@ -1,0 +1,135 @@
+{
+ "date": "2026-10-31",
+ "level": "B1-B2",
+ "note": "今天主题：AI 资本开支与资金流向（capex vs southbound flows）。格式换成：阅读理解 → 口头复述（retell）→ 英文短评。先分清 fact（事实）和 claim（发帖人说法，未核实）。持仓约 HKD 938.6 万；智谱 7.9%、金山云合计 9.9% 高于 5% 上限，现金 8.8% 低于 10% 缓冲。素材：10/30 持仓情绪、X 简报、持仓与风控。仅供语言练习，不构成投资建议，不含买卖建议。",
+ "listen": {
+  "title": "Fact or Claim? A Saturday Recap",
+  "rate": 0.85,
+  "text": "Fact: Apple announced that Apple Intelligence in China will use Alibaba's Qwen, with a developer beta on November 4 and a launch in December with iOS 27.3. Fact: southbound funds net sold about 6.2 billion Hong Kong dollars of Alibaba over ten days. According to The Information, DeepSeek's second round values it at more than 615.5 billion yuan, and Tencent led with 10 billion yuan; Meituan is also on the investor list. Yet Tencent's sentiment score was only 0.7, as people worried that big-tech AI capex could hurt cash flow. Xiaomi bought a stake in Sunwoda for about 1.7 billion yuan, while southbound net outflow from Xiaomi was about 686 million Hong Kong dollars that day. Claim: one poster said PDD trades at about 6.5 times forward earnings, with about 60 percent of its market cap covered by net cash. That number is unverified.",
+  "questions": [
+   {
+    "q": "Dictation: Developer beta on November ___; launch in ______ with iOS ______.",
+    "a": "4 / December / 27.3"
+   },
+   {
+    "q": "Dictation: Southbound funds net sold about ___ billion HKD of Alibaba over ___ days.",
+    "a": "6.2 / ten"
+   },
+   {
+    "q": "Dictation: DeepSeek valued at more than ______ billion yuan; Tencent led with ___ billion yuan.",
+    "a": "615.5 / 10"
+   },
+   {
+    "q": "Comprehension: Why was Tencent's sentiment only 0.7?",
+    "a": "Worry that big-tech AI capex could hurt cash flow."
+   },
+   {
+    "q": "Fact or claim? 'PDD trades at about 6.5x forward earnings.'",
+    "a": "Claim — a poster's number, unverified."
+   }
+  ]
+ },
+ "speak": {
+  "prompt": "You are my English retelling coach. I will read a short passage, then retell it from memory in 60 seconds. After each retelling, list what I missed, fix grammar, and ask one follow-up question. Make me label every item as 'fact' or 'claim'. Facts: Apple China Apple Intelligence uses Alibaba Qwen (dev beta 11-4, December with iOS 27.3); southbound net sold Alibaba ~HKD 6.2B over 10 days; DeepSeek 2nd round per The Information >615.5B yuan, Tencent led with 10B yuan, Meituan among investors; Tencent sentiment 0.7 (AI capex vs cash flow worry); Xiaomi SU9 Lux road-test photos (expected 350k–400k yuan), ~1.7B yuan Sunwoda stake, southbound net outflow ~HKD 686M; Zhipu IDC MaaS share ~10.6%, 2nd; GLM-5.3 assessed as not refusing attack tasks; GLM-5.5 anticipated. Claims: PDD ~6.5x forward P/E, ~60% market cap covered by net cash; risk: Temu cutting ads. X brief: Alphabet Q3 miss, intraday -12–13%; Nvidia in talks on credit guarantees for Anthropic-related data centers; Hyatt Q3 US RevPAR +8.2%; Intel guidance miss, -~21%. Never give buy/sell advice. Language practice only.",
+  "questions": [
+   "Retell (60s): the Apple–Qwen news AND the southbound selling of Alibaba. Use 'yet' or 'but' to show the contrast.",
+   "Retell (45s): DeepSeek's round and why Tencent's sentiment was only 0.7. Use 'capex' and 'free cash flow'.",
+   "Retell (30s): Zhipu's market share and its safety controversy. Use 'ranked second' and 'controversy'.",
+   "Fact or claim? Say PDD's numbers out loud starting with 'One poster claims...' and end with 'which is unverified'.",
+   "Quick-fire (20s each): explain 'guidance miss' with Intel, and 'RevPAR' with Hyatt."
+  ],
+  "tip": "复述三步：Who/What → Number → So what。claim 用 One poster claims... / which is unverified；事实用 According to... / announced。"
+ },
+ "read": {
+  "title": "Capex Worries, Southbound Flows, and Unverified Claims",
+  "text": "Friday's holdings sentiment report showed a split between news and money. Apple announced that Apple Intelligence in China will use Alibaba's Qwen, with a developer beta on November 4 and a December launch with iOS 27.3. Yet southbound flows told another story: mainland investors net sold about 6.2 billion Hong Kong dollars of Alibaba over ten days. According to The Information, DeepSeek's second round valued it at more than 615.5 billion yuan; Tencent led with 10 billion yuan, and Meituan was among the investors. Still, Tencent's sentiment score was just 0.7, because the market worried that big-tech capex on AI could weigh on free cash flow. Xiaomi road-test photos of the SU9 Lux appeared, with an expected price of 350,000 to 400,000 yuan, and Xiaomi took a stake of about 1.7 billion yuan in Sunwoda, but southbound net outflow from Xiaomi was about 686 million Hong Kong dollars that day. Zhipu held about 10.6 percent market share in IDC's MaaS ranking, second place, yet GLM-5.3 was assessed as not refusing attack tasks, a safety controversy. For PDD, one poster made an unverified claim: about 6.5 times forward P/E, with about 60 percent of market cap covered by net cash; the noted risk was Temu cutting ads. Kingsoft Cloud had no valid discussion. In the U.S., Alphabet's third-quarter miss sent shares down about 12 to 13 percent intraday, Nvidia was in talks to provide a credit guarantee for Anthropic-related data centers, Hyatt's U.S. RevPAR rose 8.2 percent, and Intel fell about 21 percent after a guidance miss. This is practice material, not investment advice.",
+  "vocab": [
+   [
+    "southbound flows",
+    "南向资金（内地资金买卖港股）",
+    "Southbound flows net sold Alibaba."
+   ],
+   [
+    "capex",
+    "资本开支",
+    "Big-tech capex on AI is rising."
+   ],
+   [
+    "free cash flow",
+    "自由现金流",
+    "Capex could weigh on free cash flow."
+   ],
+   [
+    "market share",
+    "市场份额",
+    "Zhipu held about 10.6 percent market share."
+   ],
+   [
+    "unverified claim",
+    "未经核实的说法",
+    "That is an unverified claim from one poster."
+   ],
+   [
+    "forward P/E",
+    "远期市盈率",
+    "About 6.5 times forward P/E."
+   ],
+   [
+    "net cash",
+    "净现金",
+    "Market cap covered by net cash."
+   ],
+   [
+    "credit guarantee",
+    "信贷担保",
+    "Nvidia was in talks to provide a credit guarantee."
+   ],
+   [
+    "RevPAR",
+    "每间可售房收入",
+    "Hyatt's U.S. RevPAR rose 8.2 percent."
+   ],
+   [
+    "guidance miss",
+    "业绩指引不及预期",
+    "Intel fell after a guidance miss."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the 'split between news and money' for Alibaba?",
+    "a": "Good news (Apple uses Qwen in China) but southbound net selling of ~HKD 6.2B over 10 days."
+   },
+   {
+    "q": "Who led DeepSeek's round, with how much, and what is the source?",
+    "a": "Tencent, 10 billion yuan; per The Information."
+   },
+   {
+    "q": "Give one positive and one negative item for Zhipu.",
+    "a": "~10.6% MaaS share, ranked 2nd; GLM-5.3 assessed as not refusing attack tasks."
+   },
+   {
+    "q": "Which numbers in the text are claims, not facts?",
+    "a": "PDD ~6.5x forward P/E and ~60% market cap covered by net cash (one poster, unverified)."
+   },
+   {
+    "q": "Match: RevPAR / guidance miss / credit guarantee → company.",
+    "a": "Hyatt (+8.2%) / Intel (~-21%) / Nvidia (Anthropic-related data centers)."
+   }
+  ]
+ },
+ "write": {
+  "task": "Write a 100–130 word English commentary titled 'Good News, Weak Flows'.\n1) One sentence of fact on Apple–Qwen and one on southbound selling of Alibaba.\n2) Explain in one or two sentences why Tencent's sentiment was low (capex, free cash flow).\n3) Include ONE claim, clearly labeled ('One poster claims... unverified').\n4) One sentence of portfolio paraphrase: total ~HKD 9.386M; Zhipu 7.9% and Kingsoft Cloud 9.9% vs 5% limit; cash 8.8% vs 10% buffer. No buy/sell advice.\nEnd: language practice, not investment advice.",
+  "phrases": [
+   "On the news side,... ; on the money side,...",
+   "Yet southbound flows told another story.",
+   "The market worried that capex could weigh on free cash flow.",
+   "One poster claims..., which is unverified.",
+   "According to the snapshot,...",
+   "This is language practice, not investment advice."
+  ],
+  "feedbackPrompt": "Correct my English commentary. Flag grammar, any fact I mixed up with a claim, and any sentence that sounds like buy/sell advice. Suggest a B2 rewrite using capex, southbound flows, free cash flow, unverified claim. No investment advice.",
+  "model": "Good News, Weak Flows. On the news side, Apple announced that Apple Intelligence in China will use Alibaba's Qwen, launching in December with iOS 27.3. On the money side, southbound flows net sold about 6.2 billion Hong Kong dollars of Alibaba over ten days. Tencent led DeepSeek's second round with 10 billion yuan, yet its sentiment score was only 0.7, because the market worried that AI capex could weigh on free cash flow. One poster claims PDD trades at about 6.5 times forward P/E, which is unverified. According to the snapshot, total assets are about HKD 9.386 million; Zhipu at 7.9 percent and Kingsoft Cloud at 9.9 percent are above the 5 percent limit, and cash at 8.8 percent is below the 10 percent buffer. This is language practice, not investment advice.",
+  "check": "□ fact 和 claim 分开标注 □ 用了 yet/but 对比 □ 数字与素材一致 □ 没有买卖建议"
+ }
+}
