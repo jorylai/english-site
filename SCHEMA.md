@@ -14,3 +14,9 @@
 }
 ```
 注意：vocab 第一项必须与 read.text 中的文字一致才会高亮；写作/听写/进度按日期存在浏览器 localStorage。
+
+## Bilingual fields (optional)
+- `listen.zh`, `read.zh`: arrays of Chinese lines, one per English sentence as split by `split()` in app.js (count must match; abbreviations like U.S. and decimals do not split).
+- `speak.zh`, `write.zh`: short Chinese explanations of the prompt/task.
+- `gloss`: `[["english term","中文"], ...]` — extra inline ruby annotations (in addition to `vocab`). Matched case-insensitively, longest first.
+UI: 英 / 双语 / 中 toggle (localStorage `lang`, default 双语) and 词注 toggle (`ann`). TTS and dictation always use plain English text.

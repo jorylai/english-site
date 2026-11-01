@@ -27,6 +27,17 @@
     "q": "Fact or report? 'Strikes on Iran after the November 3 midterms.'",
     "a": "Relayed report (Kobeissi citing WSJ), not officially confirmed."
    }
+  ],
+  "zh": [
+   "下面按顺序回顾这个周末。",
+   "第一，一则报道：Kobeissi 转述《华尔街日报》称，特朗普与内塔尼亚胡通话，美国准备在 11 月 3 日中期选举后恢复对伊朗的打击。",
+   "据报道，海湾阿拉伯国家被告知为一场短促而猛烈的行动做准备。",
+   "这是转述报道，没有官方确认。",
+   "第二，来自 FBI 的事实：朝鲜是币安 63 亿美元黑客案的幕后方，这是史上最大的加密货币盗窃案。",
+   "路透称，因此币安用自有资金补上了大部分损失，并恢复了比特币提现。",
+   "第三，周五苹果跌约 1.2%、英伟达跌约 4.2%，于是苹果以约 5.03 万亿美元市值一年多来首次超过英伟达。",
+   "这个数字来自 X 新闻摘要。",
+   "最后，路透报道小米 10 月交付电动车超过 5 万辆，创 2026 年月度新高。"
   ]
  },
  "speak": {
@@ -38,7 +49,8 @@
    "Risk slide (30s): the Iran report and the Binance hack. Say clearly which is a report and which is confirmed by the FBI.",
    "Close (20s): paraphrase John Ternus's 'not AI for AI's sake' in your own words."
   ],
-  "tip": "简报结构：Agenda → Key dates → Two views → Risks → Close。常用：on deck / heading into / whereas / reportedly。"
+  "tip": "简报结构：Agenda → Key dates → Two views → Risks → Close。常用：on deck / heading into / whereas / reportedly。",
+  "zh": "会议练习：用 2 分钟英文做周一“下周前瞻”简报；教练每段追问一次，并检查我是否标注事实/报道/说法。"
  },
  "read": {
   "title": "A Quiet Index, a Noisy Week",
@@ -116,6 +128,21 @@
     "q": "What does Airbnb's November 20 rule stop?",
     "a": "Hosts asking guests to strip beds or wash dishes."
    }
+  ],
+  "zh": [
+   "表面上，标普 500 仍接近高点。",
+   "但在底下，一则援引 Kobeissi 的 X 新闻摘要描述了“隐形熊市”：七巨头中有五家合计较高点蒸发约 3.54 万亿美元，超过 60% 的标普 500 成分股较高点跌超 20%。",
+   "另一则摘要称标普 500 远期市盈率回落到约 18.3 倍，科技板块约 18.4 倍。",
+   "投资者意见分化。",
+   "三倍杠杆的 TQQQ 单日流入近 10 亿美元，是有记录以来第五大单日流入。",
+   "ZeroHedge 介绍了两位前高盛人士对 AI 最糟一周得出相反结论：一位关注 1.1 万亿美元的云订单积压，另一位关注可能见顶的盈利增速。",
+   "TechCrunch 称 OpenAI 最新一轮融资看起来未达预期。",
+   "苹果新任 CEO John Ternus 为公司的做法辩护，称 AI 会融入产品，但不会为了 AI 而做 AI。",
+   "另外，Google DeepMind 称其 PlanAssist 工具最多可把英国规划审批评估时间缩短 58%。",
+   "旅游方面，路透称马来西亚航空客户数据可能受 Amadeus 泄露影响；另一份加入其他航司的二手清单未经核实。",
+   "Skift 报道万豪正在全球裁减公司职能岗位，未披露人数；另一项研究发现聊天机器人有 29% 的情况漏掉合适目的地，热门目的地高达 60%。",
+   "Airbnb 自 11 月 20 日起的新规禁止房东要求房客拆床单或洗碗。",
+   "这是练习材料，不构成投资建议。"
   ]
  },
  "write": {
@@ -131,6 +158,33 @@
   ],
   "feedbackPrompt": "Correct my English email. Check tone (polite, concise), grammar, and that every item is labeled fact / report / claim. Flag anything that sounds like buy/sell advice. Suggest a B2 rewrite. No investment advice.",
   "model": "Subject: Week ahead – quick heads-up\n\nHi Lena,\n\nJust a quick heads-up on the week ahead. According to an unofficial earnings calendar, Apple and Palantir report on Monday, AMD on Tuesday, and Airbnb and Cloudflare on Thursday; U.S. jobs data comes on Friday. On the surface the S&P 500 is near its highs, but more than 60 percent of its stocks are over 20 percent below their peaks, which some call a stealth bear market. It's worth flagging two risks: the FBI says North Korea was behind the 6.3 billion dollar Binance hack, while the report about U.S. strikes on Iran after the midterms is relayed and unconfirmed.\n\nLet me know if you'd like more detail.\n\nBest regards,\nJory\n\n(Language practice, not investment advice.)",
-  "check": "□ 有主题行和问候 □ 财报日历标注非官方 □ 伊朗=转述未确认，币安=FBI □ 语气礼貌简洁 □ 没有买卖建议"
- }
+  "check": "□ 有主题行和问候 □ 财报日历标注非官方 □ 伊朗=转述未确认，币安=FBI □ 语气礼貌简洁 □ 没有买卖建议",
+  "zh": "写 100–130 词英文邮件《下周提醒》：问候与目的、3 个财报日（注明非官方日历）、一句“隐形熊市”数字、一条标注清楚的风险、礼貌结尾；不做买卖建议。"
+ },
+ "gloss": [
+  [
+   "midterm elections",
+   "中期选举"
+  ],
+  [
+   "crypto theft",
+   "加密货币盗窃"
+  ],
+  [
+   "withdrawals",
+   "提现"
+  ],
+  [
+   "Magnificent Seven",
+   "美股七巨头"
+  ],
+  [
+   "planning assessment",
+   "规划审批评估"
+  ],
+  [
+   "secondhand",
+   "二手的（非一手来源）"
+  ]
+ ]
 }

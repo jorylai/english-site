@@ -23,6 +23,15 @@
     "q": "What is coming next week?",
     "a": "Microsoft, Google and Amazon earnings, and the Fed rate decision on Wednesday."
    }
+  ],
+  "zh": [
+   "周五油价主导了市场。",
+   "布伦特原油收于每桶 116.72 美元，涨超 3%，为 4 月以来最高。",
+   "原因是胡塞武装袭击沙特，以及对美国可能再次打击伊朗的担忧。",
+   "美股收跌：道指跌 1.23%，标普 500 跌 0.52%，纳指跌 0.21%。",
+   "高油价也拖累旅游业。",
+   "美国航空预计 2026 年亏损，今年额外燃油成本 70 亿美元；雅高预计四季度持平。",
+   "下周微软、谷歌和亚马逊发财报，美联储周三公布利率决议。"
   ]
  },
  "speak": {
@@ -35,7 +44,8 @@
    "Role-play: pick one stock and say its biggest risk and biggest opportunity from the report. Use 'On the one hand... on the other hand...'.",
    "Which is a fact and which is a claim: 'Brent closed at 116.72 dollars' and 'a post says PDD's P/E is under 8'? Say why."
   ],
-  "tip": "“Small sample” = 样本少，只能看方向不能看幅度。用 'according to the report' / 'a post claims' 标出非事实。你在练表达，不是在做决定。"
+  "tip": "“Small sample” = 样本少，只能看方向不能看幅度。用 'according to the report' / 'a post claims' 标出非事实。你在练表达，不是在做决定。",
+  "zh": "角色扮演：围绕油价上涨、美股下跌和旅游业压力进行英文问答。"
  },
  "read": {
   "title": "Commission vs Direct Booking",
@@ -113,6 +123,15 @@
     "q": "How did retail investors and Jefferies clients differ?",
     "a": "Retail bought nearly 550 million dollars of tech in five days; Jefferies clients sold more than 1 billion dollars."
    }
+  ],
+  "zh": [
+   "Skift 报道，温德姆开始把房价直接提供给 AI 预订智能体，包括 Meta 的 Muse。",
+   "据摩根士丹利数据，OTA 通常向酒店收取每笔预订 10% 到 20% 的佣金，而直订成本约 5%。",
+   "高油价持续拖累旅游链条。",
+   "雅高预计四季度持平，美国航空预计 2026 年亏损、额外燃油成本 70 亿美元；据《华尔街日报》，捷蓝航空的债权人正与重组顾问合作。",
+   "Airbnb 将从 11 月 20 日起禁止房东要求退房家务。",
+   "同时 Kobeissi Letter 称美股市值达 M2 的 350%，为 2000 年互联网泡沫以来最高。",
+   "摩根大通数据显示散户五天买入近 5.5 亿美元科技股，而 Jefferies 客户卖出超 10 亿美元。"
   ]
  },
  "write": {
@@ -127,6 +146,33 @@
   ],
   "feedbackPrompt": "Please correct my English oil-and-risk note. Point out grammar errors, unnatural phrases, and any place where I state a report or a claim as fact. Then give me a more natural B2 version. Do not give investment advice or buy/sell views.",
   "model": "On Friday Brent oil closed at 116.72 dollars, up more than 3% and the highest since April. US stocks fell: the Dow lost 1.23%, the S&P 500 0.52% and the Nasdaq 0.21%. In a sentiment report from X, Zhipu scored 5.4 out of 10 and discussion was 1.4 times its 7-day average. According to the report, the biggest risk is that product launches got no stock reaction and some posts say the valuation is high; the biggest opportunity is a possible GLM-5.5 release. Meituan scored only 1.3, but the sample was just 4 posts, so the score shows direction, not size. In my portfolio, cash is 8.9%, 1.1 points below the 10% buffer. This note is language practice, not investment advice.",
-  "check": "□ 数字都来自素材 □ 标注了 according to the report / small sample □ 用了 Brent、valuation、risk vs opportunity、cash buffer □ 没写成买卖建议"
- }
+  "check": "□ 数字都来自素材 □ 标注了 according to the report / small sample □ 用了 Brent、valuation、risk vs opportunity、cash buffer □ 没写成买卖建议",
+  "zh": "用今日素材写一段英文短评，区分事实与说法，不做买卖建议。"
+ },
+ "gloss": [
+  [
+   "Brent crude",
+   "布伦特原油"
+  ],
+  [
+   "rate decision",
+   "利率决议"
+  ],
+  [
+   "restructuring advisers",
+   "重组顾问"
+  ],
+  [
+   "creditors",
+   "债权人"
+  ],
+  [
+   "dot-com bubble",
+   "互联网泡沫"
+  ],
+  [
+   "retail investors",
+   "散户"
+  ]
+ ]
 }

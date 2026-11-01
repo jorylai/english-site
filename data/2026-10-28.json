@@ -27,6 +27,18 @@
     "q": "Comprehension: What do OpenAI and Anthropic claim, and what status do both share?",
     "a": "Scientific results on a sub-exponential 3-SAT algorithm; both await independent review."
    }
+  ],
+  "zh": [
+   "这是港股开盘前快照。",
+   "价格取周二收盘，美元兑港元 7.8448，总资产 9,518,032 港元。",
+   "腾讯 29.5%，拼多多 24.1%，美团 9.7%，阿里 7.1%，小米 2.6%。",
+   "这五只都在上限内。",
+   "智谱 8.1%，上限 5%，超 3.1 个百分点，约 294,798 港元。",
+   "金山云合计 10.2%，同样上限，超 5.2 个点，约 490,652 港元。",
+   "现金 8.7%，比 10% 缓冲低 1.3 个点，缺约 121,803 港元。",
+   "83 万现金数字来自 10 月 13 日报告，不是今日可用余额。",
+   "另外，OpenAI 称其模型取得三项科学成果，包括 3-SAT 的亚指数算法。",
+   "OpenAI 和 Anthropic 都说得到了类似结果，两者都有待独立审查。"
   ]
  },
  "speak": {
@@ -38,22 +50,63 @@
    "Guest says '56% of travelers use AI, so OTAs are finished.' Reply that the figure is one account's view.",
    "Close in 15 seconds: MakeMyTrip (+21% gross bookings) and Apple admitting cracked foldable screens. No stock advice."
   ],
-  "tip": "新闻台三步：先报事实，再标标签（claim / reportedly），最后不给建议。“percentage points”是百分点；“oversubscribed”是超订。"
+  "tip": "新闻台三步：先报事实，再标标签（claim / reportedly），最后不给建议。“percentage points”是百分点；“oversubscribed”是超订。",
+  "zh": "角色扮演：用英文汇报开盘前快照，再讨论 OpenAI/Anthropic 待审查的科研说法。"
  },
  "read": {
   "title": "Claims, Financing, and Travel Numbers",
   "text": "Monday's X brief mixed hard numbers with claims that still need checks. OpenAI says its models produced three scientific results, including a sub-exponential algorithm for 3-SAT that, if true, may challenge the exponential-time hypothesis. Anthropic researchers say Claude independently reached a similar result and attached a Lean 4 proof. Both claims await independent review. On products, OpenAI released GPT-6.1 Terra for cheaper computer use, and Google plans to bring Gemini 4 Argon to the Antigravity IDE. In tech finance, Meta plans a stock sale raising up to 95 billion dollars for AI data centers, and Broadcom reportedly arranged about 63 billion dollars of financing to serve Anthropic. Apple admits a small number of foldable iPhone Duo inner screens cracked. In travel, MakeMyTrip said gross bookings rose 21 percent, and Airbnb will limit checkout cleaning requirements. One discussion says 56 percent of active US travelers used AI to plan a trip, but that is one account's view. Separately, Reuters reported Meituan's dim sum bond of about 1.2 billion dollars was oversubscribed. The STAR 50 index is about 40 percent off its highs.",
   "vocab": [
-   ["await independent review", "等待独立审查", "Both claims await independent review."],
-   ["sub-exponential", "次指数的", "They claim a sub-exponential algorithm."],
-   ["data centers", "数据中心", "The funds would support AI data centers."],
-   ["reportedly", "据报道", "Broadcom reportedly arranged the financing."],
-   ["foldable", "可折叠的", "A few foldable screens cracked."],
-   ["gross bookings", "总预订额", "Gross bookings rose 21 percent."],
-   ["dim sum bond", "点心债（离岸人民币债券）", "The dim sum bond was oversubscribed."],
-   ["oversubscribed", "超订的", "The bond was oversubscribed."],
-   ["one account's view", "单一账号的观点", "That figure is one account's view."],
-   ["off its highs", "自高点回落", "The index is about 40 percent off its highs."]
+   [
+    "await independent review",
+    "等待独立审查",
+    "Both claims await independent review."
+   ],
+   [
+    "sub-exponential",
+    "次指数的",
+    "They claim a sub-exponential algorithm."
+   ],
+   [
+    "data centers",
+    "数据中心",
+    "The funds would support AI data centers."
+   ],
+   [
+    "reportedly",
+    "据报道",
+    "Broadcom reportedly arranged the financing."
+   ],
+   [
+    "foldable",
+    "可折叠的",
+    "A few foldable screens cracked."
+   ],
+   [
+    "gross bookings",
+    "总预订额",
+    "Gross bookings rose 21 percent."
+   ],
+   [
+    "dim sum bond",
+    "点心债（离岸人民币债券）",
+    "The dim sum bond was oversubscribed."
+   ],
+   [
+    "oversubscribed",
+    "超订的",
+    "The bond was oversubscribed."
+   ],
+   [
+    "one account's view",
+    "单一账号的观点",
+    "That figure is one account's view."
+   ],
+   [
+    "off its highs",
+    "自高点回落",
+    "The index is about 40 percent off its highs."
+   ]
   ],
   "questions": [
    {
@@ -76,6 +129,19 @@
     "q": "What did Reuters report about Meituan's bond?",
     "a": "A dim sum bond of about 1.2 billion dollars was oversubscribed."
    }
+  ],
+  "zh": [
+   "周一的 X 简报把硬数字和仍需核查的说法混在一起。",
+   "OpenAI 称其模型产出三项科学成果，包括一个 3-SAT 亚指数算法；如果属实，可能挑战指数时间假设。",
+   "Anthropic 研究人员称 Claude 独立得出类似结果，并附上 Lean 4 证明。",
+   "两项说法都有待独立审查。",
+   "产品方面，OpenAI 发布更便宜的电脑操作模型 GPT-6.1 Terra，谷歌计划把 Gemini 4 Argon 引入 Antigravity IDE。",
+   "科技金融方面，Meta 计划增发股票募资最多 950 亿美元建 AI 数据中心；据报道博通为服务 Anthropic 安排了约 630 亿美元融资。",
+   "苹果承认少量折叠屏 iPhone Duo 内屏开裂。",
+   "旅游方面，MakeMyTrip 称总预订额增长 21%，Airbnb 将限制退房清洁要求。",
+   "有讨论称 56% 的活跃美国旅行者用 AI 规划行程，但这只是一个账号的观点。",
+   "另据路透，美团约 12 亿美元的点心债获超额认购。",
+   "科创 50 指数较高点约跌 40%。"
   ]
  },
  "write": {
@@ -93,6 +159,33 @@
   ],
   "feedbackPrompt": "Correct my English morning desk note. Flag grammar, unnatural phrases, and any place I state a claim as fact or forget 'reportedly' / 'await independent review'. Give a natural B2 rewrite. No investment advice or buy/sell/trim views.",
   "model": "Before the Hong Kong open, total assets are about HKD 9,518,032. Zhipu is 8.1% against a 5% cap, over by 3.1 percentage points, about HKD 294,798. Kingsoft Cloud combined is 10.2% against the same cap, over by 5.2 points, about HKD 490,652. Cash is 8.7%, 1.3 points below the 10% buffer, but that figure is from an October 13 report. OpenAI claims three scientific results including a sub-exponential 3-SAT algorithm, and Anthropic says Claude reached a similar result with a Lean 4 proof; both claims await independent review. Meta plans a stock sale of up to 95 billion dollars for AI data centers, while Broadcom reportedly arranged about 63 billion dollars of financing to serve Anthropic. This note is language practice, not investment advice.",
-  "check": "□ 数字来自素材 □ 写了 cap / percentage points / buffer □ 现金是 10/13 报告数 □ claim + await independent review □ financing/OTA 标签正确 □ 无买卖建议"
- }
+  "check": "□ 数字来自素材 □ 写了 cap / percentage points / buffer □ 现金是 10/13 报告数 □ claim + await independent review □ financing/OTA 标签正确 □ 无买卖建议",
+  "zh": "写一段英文短评：区分硬数字与待核查说法，不做买卖建议。"
+ },
+ "gloss": [
+  [
+   "sub-exponential",
+   "亚指数级"
+  ],
+  [
+   "exponential-time hypothesis",
+   "指数时间假设"
+  ],
+  [
+   "independent review",
+   "独立审查"
+  ],
+  [
+   "oversubscribed",
+   "超额认购"
+  ],
+  [
+   "gross bookings",
+   "总预订额"
+  ],
+  [
+   "foldable",
+   "折叠屏"
+  ]
+ ]
 }

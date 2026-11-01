@@ -27,6 +27,16 @@
     "q": "Comprehension: What closing line keeps this as language practice?",
     "a": "It is a paraphrase of the memo, not advice from this practice."
    }
+  ],
+  "zh": [
+   "这是如何用英语转述风险备忘录、而不表示认同的练习。",
+   "港股开盘前，价格取周三收盘，美元兑港元 7.8445，总资产 9,564,301 港元。",
+   "腾讯 29.6%，拼多多 24.0%，美团 9.5%，阿里 7.1%，小米 2.6%。",
+   "备忘录标出两处硬性超限：智谱 8.4%，仓位上限 5%，超配 3.4 个百分点，约 321,885 元。",
+   "金山云合计 10.2%，同样上限，超配 5.2 个点，约 496,505 元。",
+   "现金 8.7%，比 10% 现金缓冲低 1.3 个点，缺约 126,430 元。",
+   "备忘录称金山云和智谱至少须减到 5%，计划把阿里降到约 4%，并把 GOOGL 暂标为不买。",
+   "它还写了“建议不下新单”——这是对备忘录的转述，不是本练习的建议。"
   ]
  },
  "speak": {
@@ -38,7 +48,8 @@
    "In 30 seconds: Meta's equity raise (~97.5 billion) and AMD's 1 billion. Mark OpenAI's TPU plan as 'reportedly'.",
    "Close in 15 seconds: Tencent sentiment 3.6 vs Meituan 9.4 (small sample). No buy/sell lines."
   ],
-  "tip": "转述：According to the risk memo... / The memo flags... / I am paraphrasing, not advising。“position limit”仓位上限；“cash buffer”现金缓冲；“reportedly”标传闻。"
+  "tip": "转述：According to the risk memo... / The memo flags... / I am paraphrasing, not advising。“position limit”仓位上限；“cash buffer”现金缓冲；“reportedly”标传闻。",
+  "zh": "角色扮演：用英文转述风险备忘录的内容，明确这是转述而非建议。"
  },
  "read": {
   "title": "Equity Raises, Booking Agents, and a Risk Memo",
@@ -116,6 +127,20 @@
     "q": "Give three sentiment scores and the label needed for Meituan.",
     "a": "Tencent 3.6, Meituan 9.4 (small sample), Zhipu 8.5."
    }
+  ],
+  "zh": [
+   "周三的 X 简报把大额融资新闻和旅游规则混在一起。",
+   "Meta 把 AI 基建股权融资修订为约 975 亿美元，AMD 表示将投资 10 亿美元。",
+   "另据报道 OpenAI 计划购买谷歌 TPU，金额未披露。",
+   "Anthropic 称通过 OneGov 向美国政府用户提供 Claude 六折优惠。",
+   "旅游方面，Airbnb 将对 11 月 20 日后预订的入住停止房东要求繁重退房家务，并在美国和加拿大提供临时电话号码。",
+   "希尔顿称正在与 AI 预订智能体合作；Skift 指出 Booking 由 AI 带来的间夜量仍不到 1%。",
+   "美联储同日公布利率决议。",
+   "有账号称 10 月剔除 AI 的标普指数跑赢全指数约 6.4 个百分点。",
+   "同日开盘前的风险备忘称智谱超过 5% 仓位上限、现金低于 10% 缓冲；这里仅作语言练习素材，不是建议。",
+   "情绪方面，腾讯 3.6 分（“百度化”叙事），美团 9.4 分（样本小），智谱 8.5 分（唐杰讲座、假 5.5 页面被辟谣）。",
+   "金山云几乎没有讨论。",
+   "小米受一段 Yu7 失控视频拖累。"
   ]
  },
  "write": {
@@ -133,6 +158,33 @@
   ],
   "feedbackPrompt": "Correct my English paraphrase of a risk memo. Flag grammar, unnatural phrases, and any place I turn the memo into my own buy/sell advice. Prefer: The memo states / According to the memo / The memo flags. Give a natural B2 rewrite. No investment advice.",
   "model": "According to the risk memo, before the Hong Kong open total assets are about HKD 9,564,301. Zhipu is 8.4% against a 5% position limit, overweight by 3.4 percentage points, about HKD 321,885. Kingsoft Cloud combined is 10.2% against the same cap, overweight by 5.2 points, about HKD 496,505. Cash is 8.7%, 1.3 points below the 10% cash buffer, but that figure is from an October 13 report. The memo says Kingsoft Cloud and Zhipu must be trimmed at least to 5%, plans to cut Alibaba to about 4%, marks GOOGL as do-not-buy for now, and suggests no new orders. Separately, Meta revised its AI infrastructure equity raise to about 97.5 billion dollars, while OpenAI reportedly plans to buy Google TPUs. I am paraphrasing the memo, not giving advice. This note is language practice, not investment advice.",
-  "check": "□ 数字来自素材 □ According to the memo □ position limit / overweight / cash buffer □ 现金是 10/13 报告数 □ reportedly 用在 OpenAI TPU □ 无个人买卖建议 □ 结尾声明仅供语言练习"
- }
+  "check": "□ 数字来自素材 □ According to the memo □ position limit / overweight / cash buffer □ 现金是 10/13 报告数 □ reportedly 用在 OpenAI TPU □ 无个人买卖建议 □ 结尾声明仅供语言练习",
+  "zh": "写一段英文短文转述备忘录要点，用 reportedly/the memo says 等表达，不给出自己的买卖建议。"
+ },
+ "gloss": [
+  [
+   "endorsing",
+   "认可、背书"
+  ],
+  [
+   "overweight",
+   "超配"
+  ],
+  [
+   "hard breaches",
+   "硬性超限"
+  ],
+  [
+   "paraphrase",
+   "转述"
+  ],
+  [
+   "debunked",
+   "被辟谣"
+  ],
+  [
+   "room nights",
+   "间夜量"
+  ]
+ ]
 }

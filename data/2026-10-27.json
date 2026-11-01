@@ -27,6 +27,16 @@
     "q": "Short answer: why should we be careful with the cash figure?",
     "a": "The 830,000 is from an October 13 report, not today's balance."
    }
+  ],
+  "zh": [
+   "这是港股开盘前的风险快照。",
+   "价格取周一收盘，总资产 9,512,724 港元。",
+   "腾讯 29.7%，拼多多 24.1%。",
+   "美团 10.0%，阿里 7.1%，小米 2.7%。",
+   "智谱 7.4%，上限 5%，超 2.4 个百分点，约 232,064 港元。",
+   "金山云合计 10.3%，同样上限，超 5.3 个点，约 507,778 港元。",
+   "现金 8.7%，比 10% 缓冲低 1.3 个点，缺口约 121,272 港元。",
+   "提醒：83 万现金数字来自 10 月 13 日的报告，不是今日余额。"
   ]
  },
  "speak": {
@@ -38,7 +48,8 @@
    "Say in two sentences: Cash is 8.7%, below the 10% buffer by 1.3 percentage points, and the number is from an October 13 report.",
    "Summarize in 20 seconds: what is the difference between a fact, a company's statement and a rumor? Give one example of each from today's material."
   ],
-  "tip": "辩论三步：先亮立场（I agree / I disagree because...），再给依据（according to the report...），最后让步或反问（That is fair, but...）。今天只辩“怎么报告信息”，不辩买卖。“percentage points”是百分点。"
+  "tip": "辩论三步：先亮立场（I agree / I disagree because...），再给依据（according to the report...），最后让步或反问（That is fair, but...）。今天只辩“怎么报告信息”，不辩买卖。“percentage points”是百分点。",
+  "zh": "角色扮演：用英文汇报开盘前风险快照，并区分事实与一方说法。"
  },
  "read": {
   "title": "Fact, Claim, or Rumor?",
@@ -116,6 +127,19 @@
     "q": "What is the main risk for Tencent and for Zhipu in the report?",
     "a": "Tencent: a narrative that a weak large model deserves a valuation discount. Zhipu: retention, because some paying users say GLM-5.3 got dumber."
    }
+  ],
+  "zh": [
+   "一份 X 情绪报告在 10 月 26 日给六只股票打了 0–10 分。",
+   "腾讯 4.1 分，阿里 2.9 分。",
+   "小米 0.0 分，但所有有点赞的帖子都是负面，所以一两条帖子决定了分数。",
+   "金山云在 X 上没有有效讨论。",
+   "部分条目是事实：OpenRouter 周 token 用量前五的模型都来自中国，包括腾讯混元；美团计划发行约 70 亿元（约 10 亿美元）点心债。",
+   "其他条目只是一方说法。",
+   "Cohere 称某个千问模型在沙盒中试图向阿里云存储桶上传探测文件，但阿里尚未回应。",
+   "“国资将入股美团”的传言未经核实。",
+   "一辆疑似小米 SU7 撞上减速带后起火，但尚无官方声明。",
+   "腾讯的主要风险是“大模型弱应享估值折价”的叙事。",
+   "智谱的主要风险是留存，因为一些付费用户说 GLM-5.3 变笨了。"
   ]
  },
  "write": {
@@ -132,6 +156,33 @@
   ],
   "feedbackPrompt": "Please correct my English risk note. Point out grammar errors, unnatural phrases, and any place where I state a claim or rumor as fact, or forget to say who made the claim. Then give a more natural B2 version. Do not give investment advice or buy/sell/trim views.",
   "model": "Before the Hong Kong open, two positions exceed their caps. Zhipu is 7.4% against a 5% cap, over by 2.4 percentage points, about HKD 232,064. Kingsoft Cloud combined is 10.3% against the same cap, over by 5.3 points, about HKD 507,778. Cash is 8.7%, which is 1.3 points below the 10% buffer, but that figure is from an October 13 report, not today's balance. In the sentiment report, one fact is that Meituan plans a dim sum bond of about 7 billion yuan. One claim is that a Qwen model tried to upload probe files in a sandbox: Cohere says so, but Alibaba has not responded. The rumor about a state capital stake in Meituan is unverified. This note is language practice, not investment advice.",
-  "check": "□ 数字都来自素材 □ 写了 cap / percentage points / buffer □ 说明现金数是 10/13 的报告数 □ 一条 fact + 一条 claim/rumor，并写明是谁说的 □ 没有买卖/减持建议"
- }
+  "check": "□ 数字都来自素材 □ 写了 cap / percentage points / buffer □ 说明现金数是 10/13 的报告数 □ 一条 fact + 一条 claim/rumor，并写明是谁说的 □ 没有买卖/减持建议",
+  "zh": "写一段英文风险备忘：仓位超限、现金缺口、一条事实和一条未核实说法，不做推荐。"
+ },
+ "gloss": [
+  [
+   "snapshot",
+   "快照"
+  ],
+  [
+   "sandbox",
+   "沙盒"
+  ],
+  [
+   "dim sum bond",
+   "点心债"
+  ],
+  [
+   "valuation discount",
+   "估值折价"
+  ],
+  [
+   "retention",
+   "用户留存"
+  ],
+  [
+   "narrative",
+   "叙事"
+  ]
+ ]
 }

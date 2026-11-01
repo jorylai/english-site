@@ -23,6 +23,16 @@
     "q": "Why should we be careful with the cash figure?",
     "a": "The 830,000 comes from an October 13 report, not today's available balance."
    }
+  ],
+  "zh": [
+   "这是港股开盘前的风险报告。",
+   "价格取周五收盘，总资产约 948 万港元。",
+   "腾讯占组合 29.7%，拼多多占 24.4%。",
+   "有两个仓位超过上限。",
+   "智谱占 7.4%，上限 5%，超出 2.4 个百分点，约 22.48 万港元。",
+   "金山云合计占 10.2%，上限同为 5%，超出 5.2 个点，约 49.5 万。",
+   "现金占 8.8%，比 10% 的缓冲低 1.2 个点。",
+   "注意：83 万的现金数字来自 10 月 13 日的报告，不是今天的可用余额。"
   ]
  },
  "speak": {
@@ -35,7 +45,8 @@
    "Alibaba's discussion was 1.54 times its 7-day average, yet the report cannot confirm why. How would you say this carefully? Use 'it is unclear whether'.",
    "Role-play: the manager asks 'What do you need from me?' Ask for a decision on how to handle the breaches, without saying whether to buy or sell."
   ],
-  "tip": "汇报风控三步：先说结论（which, how much），再说依据（snapshot, cap, buffer），最后说不确定处（the cash figure is from October 13）。“pp / percentage points”是百分点，不是百分比。你在练表达，不是在做决定。"
+  "tip": "汇报风控三步：先说结论（which, how much），再说依据（snapshot, cap, buffer），最后说不确定处（the cash figure is from October 13）。“pp / percentage points”是百分点，不是百分比。你在练表达，不是在做决定。",
+  "zh": "角色扮演：根据开盘前风险报告，用英文复述仓位、超限和现金缓冲。"
  },
  "read": {
   "title": "Confirmed, Single-Source, or Unverified?",
@@ -113,6 +124,18 @@
     "q": "Why could Kingsoft Cloud not be scored?",
     "a": "The report found no related posts."
    }
+  ],
+  "zh": [
+   "一份 X 情绪报告给六只股票打了 0–10 分。",
+   "腾讯 3.5，拼多多 5.4，阿里 1.9，小米 3.5，智谱 3.4。",
+   "美团 0.0 分，但样本小，分数极端、参考价值不大。",
+   "金山云无法打分，因为报告没找到相关帖子。",
+   "一个大号列出港股“七姐妹”较高点回撤：腾讯 -44%、阿里 -34%、美团 -32%、小米 -58%。",
+   "这一条帖子同时计入四只股票，拉低了分数。",
+   "部分条目已确认：Temu 与得州达成 300 万美元隐私和解；Keeta 在巴西新增 21 个城市，五年承诺投入 56 亿雷亚尔。",
+   "其他条目未确认。",
+   "“欧盟小包裹关税后 Temu 欧洲月活降超 40%”的说法只有单一来源。",
+   "阿里自研芯片的传言未确认，“小米 18 销量不如上一代”的说法也未核实。"
   ]
  },
  "write": {
@@ -127,6 +150,33 @@
   ],
   "feedbackPrompt": "Please correct my English risk-breach note. Point out grammar errors, unnatural phrases, and any place where I state a claim, rumor or single-source report as fact. Then give me a more natural B2 version. Do not give investment advice or buy/sell views.",
   "model": "As of Friday's close, two positions exceed their caps. Zhipu is 7.4% of the portfolio against a 5% cap, so it is over by 2.4 percentage points, about HKD 224,800. Kingsoft Cloud combined is 10.2% against the same cap, over by 5.2 points, about HKD 494,766. Cash is 8.8%, which is 1.2 points below the 10% buffer, but that figure comes from an October 13 report, not today's available balance. In the sentiment report, a claim that Xiaomi 18 sales are below its predecessor is unverified, so I would not treat it as fact. This note is language practice, not investment advice.",
-  "check": "□ 数字都来自素材 □ 写了 cap / percentage points / buffer □ 说明现金数是 10/13 的报告数 □ 标注了 unverified / single source □ 没写成买卖建议"
- }
+  "check": "□ 数字都来自素材 □ 写了 cap / percentage points / buffer □ 说明现金数是 10/13 的报告数 □ 标注了 unverified / single source □ 没写成买卖建议",
+  "zh": "写一段英文风险备忘：说明超限仓位与现金缓冲，区分事实和说法，不做推荐。"
+ },
+ "gloss": [
+  [
+   "percentage points",
+   "百分点"
+  ],
+  [
+   "buffer",
+   "缓冲"
+  ],
+  [
+   "drawdown",
+   "回撤"
+  ],
+  [
+   "privacy settlement",
+   "隐私和解"
+  ],
+  [
+   "pledge",
+   "承诺投入"
+  ],
+  [
+   "predecessor",
+   "上一代产品"
+  ]
+ ]
 }

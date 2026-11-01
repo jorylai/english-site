@@ -23,6 +23,17 @@
     "q": "What does a Fear and Greed reading of 20 to 22 mean?",
     "a": "Extreme fear."
    }
+  ],
+  "zh": [
+   "10 月 22 日美股科技股大跌。",
+   "纳指 100 收跌 2.9%，为 6 月 5 日以来最大单日跌幅，约 1.2 万亿美元市值蒸发。",
+   "X 上大家归因于三点：Meta 财报后对 AI 资本开支回报的担忧、芯片股抛售和油价上涨。",
+   "英伟达跌超 4%，至约 212 美元。",
+   "苹果逆势收于 348.22 美元的历史新高。",
+   "恐慌情绪弥漫。",
+   "据高盛数据，对冲基金卖空与买入之比接近五年高点。",
+   "CNN 恐惧与贪婪指数跌至 20 到 22，属于“极度恐惧”。",
+   "不过观点分化，一位知名策略师在 CNBC 上说底部可能临近。"
   ]
  },
  "speak": {
@@ -35,7 +46,8 @@
    "Describe my portfolio risk in English: use 'overweight', 'position limit' and 'cash buffer'. Do not say what I should do.",
    "Alibaba's score is 0.0, but the sample is small and the claim is denied by Alibaba. How would you talk about this carefully?"
   ],
-  "tip": "用 'reportedly' / 'according to' 标出非事实；用 'On the one hand... on the other hand...' 讲两面。你在练表达，不是在做决定。"
+  "tip": "用 'reportedly' / 'according to' 标出非事实；用 'On the one hand... on the other hand...' 讲两面。你在练表达，不是在做决定。",
+  "zh": "角色扮演：你是冷静的风控经理；背景是 10/22 纳指 100 跌 2.9%、亚洲“黑色星期四”，追问我的组合仓位。"
  },
  "read": {
   "title": "AI Money, Travel and Asian Markets",
@@ -113,6 +125,17 @@
     "q": "What happened to Alibaba's ADR on October 23, and who denies the report?",
     "a": "It fell 2.14% to 99.64 dollars; Alibaba denies the White House memo claim."
    }
+  ],
+  "zh": [
+   "据 CNBC，OpenAI 即将完成最高 300 亿美元的融资，估值 1.25 万亿美元。",
+   "据报道 DeepSeek 完成约 150 亿美元融资，腾讯和宁德时代参与。",
+   "Anthropic 把 Agent Skills 捐给了 Agentic AI 基金会。",
+   "旅游方面，扎克伯格说旅行是 Meta AI 智能体 Muse 的主要用途之一，Meta 可能从预订中抽成，有人视之为对 OTA 的潜在竞争。",
+   "美国航空下调了 2026 年展望，Airbnb 将从 11 月 20 日起禁止房东要求房客做退房家务。",
+   "亚洲方面，10 月 22 日被称为“黑色星期四”：沪深 300 较 6 月高点跌 20%，进入熊市。",
+   "10 月 23 日港股技术性反弹，恒指涨约 0.81%。",
+   "小米午间涨超 5%。",
+   "有报道称白宫备忘录涉及阿里后，阿里 ADR 跌 2.14% 至 99.64 美元，阿里否认该报道。"
   ]
  },
  "write": {
@@ -127,6 +150,33 @@
   ],
   "feedbackPrompt": "Please correct my English market note. Point out grammar errors, unnatural phrases, and any place where I state a report or claim as fact. Then give me a more natural version at B2 level. Do not give investment advice.",
   "model": "On October 22 the Nasdaq 100 fell 2.9%, its biggest one-day drop since June, and about 1.2 trillion dollars of market value was lost. People on X blamed worries about AI capex returns after Meta's earnings, a chip sell-off and higher oil prices. Separately, the CSI 300 is 20% below its June high, so it is in a bear market. DeepSeek reportedly completed a round of about 15 billion dollars, but that is a report, not a confirmed fact. In my portfolio of about HKD 9.35 million, Zhipu is 6.9% against a 5% cap, 1.9 points over, and Kingsoft Cloud is 9.9%, 4.9 points over. Cash is 8.9%, 1.1 points below the 10% buffer. This note describes risk and does not recommend any action.",
-  "check": "□ 每个数字都来自素材 □ 区分了 fact / reportedly / claim □ 用了 sell-off、capex、bear market、overweight、cash buffer □ 没写成买卖建议"
- }
+  "check": "□ 每个数字都来自素材 □ 区分了 fact / reportedly / claim □ 用了 sell-off、capex、bear market、overweight、cash buffer □ 没写成买卖建议",
+  "zh": "写 120–150 词英文“市场与组合备忘”：两句概括抛售；标注一条事实和一条“据报道”；说明超限持仓和现金对比缓冲，不做推荐。"
+ },
+ "gloss": [
+  [
+   "capital spending",
+   "资本开支"
+  ],
+  [
+   "short selling",
+   "卖空"
+  ],
+  [
+   "hedge fund",
+   "对冲基金"
+  ],
+  [
+   "extreme fear",
+   "极度恐惧"
+  ],
+  [
+   "strategist",
+   "策略师"
+  ],
+  [
+   "checkout chores",
+   "退房家务"
+  ]
+ ]
 }

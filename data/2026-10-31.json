@@ -27,6 +27,15 @@
     "q": "Fact or claim? 'PDD trades at about 6.5x forward earnings.'",
     "a": "Claim — a poster's number, unverified."
    }
+  ],
+  "zh": [
+   "事实：苹果宣布国行 Apple 智能将使用阿里千问，11 月 4 日开发者测试版，12 月随 iOS 27.3 上线。",
+   "事实：南向资金十天净卖出阿里约 62 亿港元。",
+   "据 The Information，DeepSeek 第二轮估值超 6155 亿元，腾讯以 100 亿元领投；美团也在投资方名单中。",
+   "但腾讯情绪分只有 0.7，因为大家担心大厂 AI 资本开支会伤害现金流。",
+   "小米以约 17 亿元入股欣旺达，而当天南向资金净流出小米约 6.86 亿港元。",
+   "说法：有发帖人称拼多多远期市盈率约 6.5 倍，约 60% 市值由净现金覆盖。",
+   "这个数字未经核实。"
   ]
  },
  "speak": {
@@ -38,7 +47,8 @@
    "Fact or claim? Say PDD's numbers out loud starting with 'One poster claims...' and end with 'which is unverified'.",
    "Quick-fire (20s each): explain 'guidance miss' with Intel, and 'RevPAR' with Hyatt."
   ],
-  "tip": "复述三步：Who/What → Number → So what。claim 用 One poster claims... / which is unverified；事实用 According to... / announced。"
+  "tip": "复述三步：Who/What → Number → So what。claim 用 One poster claims... / which is unverified；事实用 According to... / announced。",
+  "zh": "复述练习：读短文后 60 秒内用英文复述，并把每一项标为事实或说法。"
  },
  "read": {
   "title": "Capex Worries, Southbound Flows, and Unverified Claims",
@@ -116,6 +126,19 @@
     "q": "Match: RevPAR / guidance miss / credit guarantee → company.",
     "a": "Hyatt (+8.2%) / Intel (~-21%) / Nvidia (Anthropic-related data centers)."
    }
+  ],
+  "zh": [
+   "周五的持仓情绪报告显示新闻与资金出现分歧。",
+   "苹果宣布国行 Apple 智能将使用阿里千问，11 月 4 日开发者测试版，12 月随 iOS 27.3 上线。",
+   "但南向资金讲的是另一个故事：内地投资者十天净卖出阿里约 62 亿港元。",
+   "据 The Information，DeepSeek 第二轮估值超 6155 亿元；腾讯以 100 亿元领投，美团在投资方之列。",
+   "然而腾讯情绪分只有 0.7，因为市场担心大厂 AI 资本开支会拖累自由现金流。",
+   "小米 SU9 Lux 路测照曝光，预计售价 35 万–40 万元；小米以约 17 亿元入股欣旺达，但当天南向资金净流出小米约 6.86 亿港元。",
+   "在 IDC 的 MaaS 排名中智谱市场份额约 10.6%，排第二，但 GLM-5.3 被评估为不拒绝攻击类任务，引发安全争议。",
+   "拼多多方面，有发帖人提出未经核实的说法：远期市盈率约 6.5 倍、约 60% 市值由净现金覆盖；提到的风险是 Temu 削减广告。",
+   "金山云没有有效讨论。",
+   "美国方面，Alphabet 三季度不及预期，盘中股价跌约 12%–13%；英伟达正洽谈为 Anthropic 相关数据中心提供信贷担保；凯悦美国 RevPAR 涨 8.2%；英特尔因指引不及预期跌约 21%。",
+   "这是练习材料，不构成投资建议。"
   ]
  },
  "write": {
@@ -130,6 +153,29 @@
   ],
   "feedbackPrompt": "Correct my English commentary. Flag grammar, any fact I mixed up with a claim, and any sentence that sounds like buy/sell advice. Suggest a B2 rewrite using capex, southbound flows, free cash flow, unverified claim. No investment advice.",
   "model": "Good News, Weak Flows. On the news side, Apple announced that Apple Intelligence in China will use Alibaba's Qwen, launching in December with iOS 27.3. On the money side, southbound flows net sold about 6.2 billion Hong Kong dollars of Alibaba over ten days. Tencent led DeepSeek's second round with 10 billion yuan, yet its sentiment score was only 0.7, because the market worried that AI capex could weigh on free cash flow. One poster claims PDD trades at about 6.5 times forward P/E, which is unverified. According to the snapshot, total assets are about HKD 9.386 million; Zhipu at 7.9 percent and Kingsoft Cloud at 9.9 percent are above the 5 percent limit, and cash at 8.8 percent is below the 10 percent buffer. This is language practice, not investment advice.",
-  "check": "□ fact 和 claim 分开标注 □ 用了 yet/but 对比 □ 数字与素材一致 □ 没有买卖建议"
- }
+  "check": "□ fact 和 claim 分开标注 □ 用了 yet/but 对比 □ 数字与素材一致 □ 没有买卖建议",
+  "zh": "写 100–130 词英文短评《好消息，弱资金》：千问与南向资金、腾讯情绪偏低原因、一条标注的说法，不做买卖建议。"
+ },
+ "gloss": [
+  [
+   "developer beta",
+   "开发者测试版"
+  ],
+  [
+   "southbound funds",
+   "南向资金"
+  ],
+  [
+   "stake",
+   "股份、入股"
+  ],
+  [
+   "controversy",
+   "争议"
+  ],
+  [
+   "intraday",
+   "盘中"
+  ]
+ ]
 }

@@ -27,6 +27,14 @@
     "q": "Comprehension: Name the two position-limit figures and the cash figure from the paraphrase.",
     "a": "Zhipu 7.9% vs 5%; Kingsoft Cloud combined 9.9% vs 5%; cash 8.8%, 1.2 points below the 10% buffer."
    }
+  ],
+  "zh": [
+   "财报之夜，Alphabet 三季度营收 1275.8 亿美元，低于预期约 3 亿美元；GAAP 每股收益 2.12 美元，远低于预期。",
+   "谷歌云增至 307 亿美元，同比增 103%，但自由现金流转负，盘后股价跌超 8%。",
+   "微软营收约 923 亿美元，增 19%；云业务超 630 亿美元并加速至约 30%，盘后股价涨约 5%。",
+   "美联储以 10 比 2 维持利率在 3.75%–4.00%；Cook 和 Hammack 支持加息 25 个基点，市场认为基调偏鹰。",
+   "另外，港股开盘前总资产为 9,385,983 港元。",
+   "风险备忘标出智谱 7.9%（上限 5%）、金山云合计 9.9%（同上限）、现金 8.8% 比 10% 缓冲低 1.2 个点——这是对备忘的转述，不是建议。"
   ]
  },
  "speak": {
@@ -38,7 +46,8 @@
    "Guest: 'What about the portfolio?' Paraphrase position limits and cash buffer only. End: 'I am paraphrasing the memo, not giving advice.'",
    "Close in 20 seconds: Agoda via Muse as a booking agent; mark OpenAI's TPU plan as 'reportedly'."
   ],
-  "tip": "财报台：On the desk... / free cash flow / after-hours / rate hold / hawkish / reportedly。转述用 The memo says...，不背书。"
+  "tip": "财报台：On the desk... / free cash flow / after-hours / rate hold / hawkish / reportedly。转述用 The memo says...，不背书。",
+  "zh": "角色扮演：用英文点评 Alphabet、微软财报和美联储决议，并转述风险备忘。"
  },
  "read": {
   "title": "After-Hours Splits, a Hawkish Hold, and Booking Agents",
@@ -116,6 +125,18 @@
     "q": "List six sentiment scores and the note on Kingsoft Cloud.",
     "a": "Tencent 8.1, PDD 8.2, Meituan 6.9 (small sample), Alibaba 9.0, Xiaomi 10.0, Zhipu 8.0; Kingsoft Cloud almost no sample."
    }
+  ],
+  "zh": [
+   "周四的 X 简报是财报加美联储之夜。",
+   "Alphabet 三季度营收 1275.8 亿美元，低于预期约 3 亿美元；GAAP 每股收益 2.12 美元，远低于预期。",
+   "谷歌云达 307 亿美元，同比增 103%，但自由现金流转负，盘后股价跌超 8%。",
+   "微软营收约 923 亿美元，增 19%，云业务超 630 亿美元、增速加快到约 30%；盘后股价涨约 5%。",
+   "甲骨文涨约 12%。",
+   "美联储以 10 比 2 维持利率在 3.75%–4.00%；Cook 和 Hammack 倾向加息，基调被称为偏鹰。",
+   "据报道 OpenAI 计划购买谷歌 TPU，双方均未正式确认。",
+   "Skift 称 Agoda 已通过 Meta 的 Muse 预订智能体订出酒店。",
+   "情绪方面，腾讯 8.1、拼多多 8.2、美团 6.9（样本小）、阿里 9.0（“千问 4 下周发布”主导）、小米 10.0、智谱 8.0；金山云几乎没有样本。",
+   "同日快照总资产 9,385,983 港元，智谱超过 5% 上限，现金低于 10% 缓冲；此处备忘措辞仅供转述练习，不是建议。"
   ]
  },
  "write": {
@@ -132,6 +153,29 @@
   ],
   "feedbackPrompt": "Correct my English earnings-desk note. Flag grammar and any place I turn a risk memo into buy/sell advice. Prefer: On the desk / The memo says / free cash flow / after-hours / hawkish. B2 rewrite. No investment advice.",
   "model": "On the earnings desk, Alphabet reported third-quarter revenue of 127.58 billion dollars, about 0.3 billion below expectations. Google Cloud hit 30.7 billion dollars, up 103 percent, but free cash flow turned negative and the stock fell more than 8 percent after-hours. Microsoft printed about 92.3 billion dollars in revenue, up 19 percent, with Cloud accelerating to about 30 percent, and shares rose about 5 percent after-hours. The Fed held rates at 3.75 to 4.00 percent in a 10-to-2 vote; because Cook and Hammack preferred a hike, markets called the tone hawkish. OpenAI reportedly plans to buy Google TPUs. According to the snapshot, total assets are about HKD 9,385,983; Zhipu is above its 5 percent position limit and cash is below the 10 percent cash buffer. I am paraphrasing the memo, not giving advice. This note is language practice, not investment advice.",
-  "check": "□ 数字来自素材 □ free cash flow / after-hours / rate hold / hawkish □ reportedly 标 OpenAI TPU □ 持仓只用 paraphrase □ 无个人买卖建议 □ 结尾声明仅供语言练习"
- }
+  "check": "□ 数字来自素材 □ free cash flow / after-hours / rate hold / hawkish □ reportedly 标 OpenAI TPU □ 持仓只用 paraphrase □ 无个人买卖建议 □ 结尾声明仅供语言练习",
+  "zh": "写一段英文财报夜短评：营收、云增长、现金流和美联储基调，不做买卖建议。"
+ },
+ "gloss": [
+  [
+   "GAAP EPS",
+   "按通用会计准则的每股收益"
+  ],
+  [
+   "year over year",
+   "同比"
+  ],
+  [
+   "basis-point",
+   "基点"
+  ],
+  [
+   "hawkish",
+   "鹰派"
+  ],
+  [
+   "after-hours",
+   "盘后"
+  ]
+ ]
 }

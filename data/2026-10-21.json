@@ -19,6 +19,16 @@
     "q": "Why did Netflix shares fall after hours?",
     "a": "Revenue met expectations, but its guidance was weaker than expected."
    }
+  ],
+  "zh": [
+   "Anthropic 的 IPO 申报是今天 X 上的热门话题。",
+   "公司 2026 年上半年营收 163 亿美元，上年同期为 11 亿美元。",
+   "但它也录得 807 亿美元净亏损，主要来自与融资相关的会计费用。",
+   "中国相关新闻：据报道字节、阿里和腾讯订购了超过 300 万张合规版英伟达 RTX PRO 5500 推理卡，按标价超过 350 亿美元。",
+   "但英伟达称买家可能只能拿到其中 5% 到 10%。",
+   "另外，在 SpaceX 第三季度财报电话会上，马斯克称公司今年余下时间每月将部署约 20 万块 GB300 GPU。",
+   "华尔街方面，奈飞营收符合预期但指引偏弱，盘后跌 5% 到 6%。",
+   "最后，Citadel 的 Ken Griffin 称市场“几乎肯定”处于 AI 泡沫中。"
   ]
  },
  "speak": {
@@ -28,7 +38,8 @@
    "Do you agree with Ken Griffin that the market is in an AI bubble? Give one reason.",
    "If Chinese companies only get 5–10% of the Nvidia chips they ordered, what could that mean for them?"
   ],
-  "tip": "参考数据：Tencent HK$451.6 → 393.8 ≈ -12.8%"
+  "tip": "参考数据：Tencent HK$451.6 → 393.8 ≈ -12.8%",
+  "zh": "口语角色扮演：你是谨慎的股票分析师，我是持有腾讯、阿里、智谱的投资者；只用给定事实。"
  },
  "read": {
   "title": "AI Agents, Hotels and Chips",
@@ -93,6 +104,17 @@
     "q": "Give one example of a \"reasonable\" checkout request.",
     "a": "Putting dishes in the sink."
    }
+  ],
+  "zh": [
+   "在线旅游行业正密切关注 AI。",
+   "HotelTonight 联合创始人 Sam Shank 认为，AI 智能体可能颠覆大型 OTA 依赖的付费排名模式。",
+   "他计划把 HotelTonight 定位为专做临时入住的专业智能体。",
+   "同时 Agoda 称其豪华酒店供给四年翻倍，吉隆坡、曼谷和巴厘岛的五星酒店搜索量在上升。",
+   "不过 Skift 指出，在 Agoda 公布预订数据之前，很难证明它能卖好豪华酒店。",
+   "Airbnb 也在改规则。",
+   "11 月 20 日之后的预订，房东只能提出“合理”的退房要求，比如把碗碟放进水槽。",
+   "房客欢迎这一变化，但部分房东说会下架房源。",
+   "硬件方面，超微把季度营收预期从 145–155 亿美元上调到 185–195 亿美元，盘后股价大涨。"
   ]
  },
  "write": {
@@ -108,6 +130,29 @@
   ],
   "feedbackPrompt": "Don't rewrite my text. List my 5 most important mistakes and explain why, then give one more natural version of my weakest sentence.",
   "model": "Meituan has been the most stable stock in my portfolio this month. Since September 22, it has risen from HK$73.2 to HK$74.7, a gain of about 2%. It now makes up 10.7% of my portfolio. One reason I'm still holding it is that it has held up better than Tencent and Alibaba. On the other hand, a small gain doesn't guarantee future growth. I plan to keep an eye on it rather than add more right now.",
-  "check": "自查：现在完成时（has fallen since…）、百分比（by about 33%）、make up X% of"
- }
+  "check": "自查：现在完成时（has fallen since…）、百分比（by about 33%）、make up X% of",
+  "zh": "选一只持仓写 5–8 句英文点评，只用给定数字：现状 → 数字 → 看法/风险 → 下一步。"
+ },
+ "gloss": [
+  [
+   "IPO filing",
+   "上市申报"
+  ],
+  [
+   "inference cards",
+   "推理卡"
+  ],
+  [
+   "list price",
+   "标价"
+  ],
+  [
+   "earnings call",
+   "财报电话会"
+  ],
+  [
+   "co-founder",
+   "联合创始人"
+  ]
+ ]
 }

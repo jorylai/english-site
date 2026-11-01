@@ -23,6 +23,19 @@
     "q": "Is 'selling to pay tax' a fact?",
     "a": "No. It is only speculation."
    }
+  ],
+  "zh": [
+   "10 月 22 日港股大幅抛售。",
+   "恒生科技指数收跌 5.03%，恒指跌 3.03%。",
+   "发生了什么？",
+   "据彭博，中国市场监管部门约谈了阿里、京东、拼多多等电商平台。",
+   "要求它们加强商品质量管控，尤其针对直播带货和即时零售中的假货和货不对板。",
+   "投资者将此解读为可能加强监管的信号。",
+   "阿里港股盘中最多跌 6.6%，为两个月来最大跌幅。",
+   "还有其他压力。",
+   "宁德时代三季度净利润不及预期，10 月 21 日股价跌约 10%。",
+   "此外，离岸信托的报税过渡期于 10 月 22 日结束。",
+   "但“有人卖股缴税”只是猜测，并非确认的事实。"
   ]
  },
  "speak": {
@@ -35,7 +48,8 @@
    "Why might a cash buffer matter on a day like October 22?",
    "Pick one piece of news today and say whether it is a fact, an opinion, or a rumor, and why."
   ],
-  "tip": "Frame both sides: 'On the one hand... On the other hand...' and end with 'The rule says X, but the timing question is Y.' You are practicing argument, not making a decision."
+  "tip": "Frame both sides: 'On the one hand... On the other hand...' and end with 'The rule says X, but the timing question is Y.' You are practicing argument, not making a decision.",
+  "zh": "角色扮演：你是冷静的风控经理，按问题追问我的仓位超限和现金缓冲情况。"
  },
  "read": {
   "title": "Holdings Roundup: Facts, Opinions and Rumors",
@@ -118,6 +132,18 @@
     "q": "What share of the Nvidia orders can be met?",
     "a": "Only 5% to 10% of over 3 million chips."
    }
+  ],
+  "zh": [
+   "腾讯 10 月 21 日收于 393.8 港元，跌破 400，接近一年低点。",
+   "它参与了今日 AI 超过 2 亿美元的融资。",
+   "据报道 DeepSeek 约 1000 亿元的新一轮融资接近完成，腾讯和美团在投资方之列。",
+   "一条 X 帖子称腾讯估值回到 2018 年水平而盈利约为当时三倍，但那只是观点。",
+   "拼多多被监管约谈；有帖子引用其市盈率约 8 倍，而五年均值为 18 倍。",
+   "美团 Keeta 在巴西起诉对手 99Food 违反排他性裁决，并宣布新增 21 个城市。",
+   "小米雷军称 IoT 连接设备超 11 亿台，未来五年研发投入将超 2000 亿元；小米汽车累计交付超 80 万辆。",
+   "智谱以 MIT 许可证开源了 GLM 5.3 7B。",
+   "部分用户抱怨模型变差，也有人期待 GLM 5.5，但这只是传言。",
+   "最后，路透称字节、阿里和腾讯合计订购超过 300 万颗英伟达 RTX PRO 5500 芯片，但英伟达只能满足 5% 到 10%。"
   ]
  },
  "write": {
@@ -132,6 +158,29 @@
   ],
   "feedbackPrompt": "Please correct my English risk note. Point out grammar errors, unnatural phrases, and any place where I state speculation as fact. Then give me a more natural version at B2 level. Do not give investment advice.",
   "model": "Hong Kong stocks saw a broad sell-off on October 22: the Hang Seng Tech Index closed down 5.03% and the Hang Seng Index fell 3.03%. Bloomberg reported that the market regulator summoned Alibaba, JD, PDD and others to tighten quality control over counterfeit and not-as-described goods. In my portfolio of about HKD 9.35 million, two positions are over their limits. Zhipu is 6.9% against a 5% cap, about HKD 177k over, and Kingsoft Cloud is 9.9% against a 5% cap, about HKD 455k over. Cash is 8.9%, below the 10% buffer. One argument for trimming is that the limits exist to control risk, and rebalancing would also rebuild the cash buffer. On the other hand, trimming right after a sharp drop means selling into weakness. This note frames the trade-off; it is not a decision.",
-  "check": "□ 每个数字都来自素材 □ 区分了 fact / report / speculation □ 用了 overweight、trim、rebalance、cash buffer □ 正反各一点，没写成建议"
- }
+  "check": "□ 每个数字都来自素材 □ 区分了 fact / report / speculation □ 用了 overweight、trim、rebalance、cash buffer □ 正反各一点，没写成建议",
+  "zh": "写 120–150 词英文“收盘风险备忘”：两句概括 10/22 抛售；列出超限持仓与现金对比缓冲；给出减仓的正反理由，不做推荐。"
+ },
+ "gloss": [
+  [
+   "counterfeit goods",
+   "假冒商品"
+  ],
+  [
+   "livestream selling",
+   "直播带货"
+  ],
+  [
+   "instant retail",
+   "即时零售"
+  ],
+  [
+   "regulatory crackdown",
+   "监管整顿"
+  ],
+  [
+   "MIT license",
+   "MIT 开源许可证"
+  ]
+ ]
 }

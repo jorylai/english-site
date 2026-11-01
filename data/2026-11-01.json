@@ -27,6 +27,19 @@
     "q": "Fact or claim? 'A possible Iran strike as early as November 4.'",
     "a": "Claim/report — MS NOW via DeItaone, relayed, not confirmed here."
    }
+  ],
+  "zh": [
+   "这里是市场电台。",
+   "事实：美东时间 10 月 30 日周五，科技股大幅抛售。",
+   "据 Kobeissi Letter，纳指 100 较 10 月 6 日高点跌约 10%，进入技术性回调。",
+   "英特尔盘中跌约 31%。",
+   "X 新闻摘要称纳指收跌约 2.9%，标普跌约 1.8%。",
+   "《华尔街日报》称这是纳指 6 月以来最差的一天。",
+   "焦点是 AI 资本开支能否转化为现金流。",
+   "事实（Kobeissi 援引 FT）：OpenAI 把融资目标从 300 亿美元降到 200 亿，估值从 1.4 万亿降到 1.25 万亿。",
+   "另外，OpenAI 发布宣传片《There are many futures》，但没有正式发布模型。",
+   "说法/报道：MS NOW 经 DeItaone 转述称，最早 11 月 4 日可能对伊朗发动打击。",
+   "这是转述报道，此处未确认。"
   ]
  },
  "speak": {
@@ -38,7 +51,8 @@
    "Quick-fire (20s each): Meta outlook cut; ECI vs CPI; Binance hack size and time.",
    "Claim drill: Say the Zhipu ~-84% figure and the Iran Nov-4 report starting with 'One source claims...' and ending with 'unverified / not confirmed here'."
   ],
-  "tip": "访谈：Number → Source → So what。fact 用 According to...；claim 用 One poster claims... / unverified。"
+  "tip": "访谈：Number → Source → So what。fact 用 According to...；claim 用 One poster claims... / unverified。",
+  "zh": "访谈练习《解释这次抛售》：你是主持人，我是初级分析师；每次回答后纠正语法、标注事实/说法并追问。"
  },
  "read": {
   "title": "Two Stories on One Friday: U.S. Tech Sell-off vs China Holdings Sentiment",
@@ -116,6 +130,27 @@
     "q": "Match: red-teaming / iOS 27.3 beta / Meta outlook → who?",
     "a": "Anthropic / Apple (The Verge) / S&P Global cut outlook to negative."
    }
+  ],
+  "zh": [
+   "周五同时上演了两个故事。",
+   "在美国，科技股遭抛售。",
+   "Kobeissi Letter 称纳指 100 较 10 月 6 日高点低约 10%，属于技术性回调；英特尔盘中跌约 31%。",
+   "X 新闻摘要称纳指跌约 2.9%、标普跌约 1.8%，《华尔街日报》称这是纳指 6 月以来最差一天。",
+   "投资者关注 AI 资本开支能否变成自由现金流。",
+   "Kobeissi 援引 FT 称，OpenAI 把融资目标从 300 亿美元降到 200 亿，估值从 1.4 万亿降到 1.25 万亿。",
+   "OpenAI 还发布了名为《There are many futures》的短片，但没有正式发布模型。",
+   "Anthropic 用数千个 Claude 智能体做“涌现式失准”方向的红队测试。",
+   "The Verge 报道 iOS 27.3 测试版将把部分 Apple 智能功能带到中国。",
+   "标普全球因资本开支和自由现金流不确定性，把 Meta 的评级展望下调为负面。",
+   "Kobeissi 称市场计价 12 月加息概率约 75%；Liz Ann Sonders 指出三季度就业成本指数环比 +0.8%、同比 +3.4%，低于 9 月 CPI 的 3.7%。",
+   "《华尔街日报》报道币安黑客案 20 分钟内被盗约 64 亿美元。",
+   "持仓情绪方面分数分化：腾讯 7.4，拼多多 7.8，美团 8.8（不加权约 6.8），阿里 8.0，小米 8.9，智谱 4.2（不加权约 5.0），金山云无分数。",
+   "阿里的叙事集中在苹果国行 AI 使用千问；转述的 IDC MaaS 数据显示阿里约 46.6%，智谱约 10.6%。",
+   "小米开源的 OCR-0 模型（约 8 亿参数）讨论偏正面。",
+   "智谱方面，有发帖人提出未经核实的说法：港股较高点下跌约 84%。",
+   "旅游方面，Skift 称迪拜的 Silkhaus 将在 11 月底关停，理由是美伊战争；AirDNA 显示迪拜 11 月短租预订同比降 37.5%；泰国把 2026 年入境游客预测从 3670 万下调到 3300 万；IndiGo 燃油成本涨 67%，亏损约 1.97 亿美元。",
+   "Arb Insights 称 Expedia 10 月美国需求放缓——同样未经核实。",
+   "这是练习材料，不构成投资建议。"
   ]
  },
  "write": {
@@ -131,6 +166,33 @@
   ],
   "feedbackPrompt": "Correct my English bulletin. Flag grammar, fact/claim mix-ups, and any buy/sell advice. Suggest a B2 rewrite using technical correction, fundraising target, sentiment score, unverified claim. No investment advice.",
   "model": "Correction Friday, Split Sentiment. In radio terms: the Nasdaq-100 slipped about 10 percent from its October 6 high into a technical correction, while Intel sank about 31 percent intraday. Second headline: according to Kobeissi, citing the Financial Times, OpenAI cut its fundraising target from 30 billion dollars to 20 billion and its valuation from 1.4 trillion to 1.25 trillion. On the sentiment tape, Alibaba scored 8.0 on the Apple-China Qwen narrative, while Zhipu scored 4.2 under an AI-bubble sell-off story. Relayed IDC MaaS figures put Alibaba near 46.6 percent and Zhipu near 10.6 percent. One poster claims Zhipu's Hong Kong stock was about 84 percent below its high, which is unverified. This is language practice, not investment advice.",
-  "check": "□ 两条标题改写成完整句 □ OpenAI 数字与来源链正确 □ 阿里/智谱情绪对比清楚 □ claim 已标注 □ 没有组合总值 □ 没有买卖建议"
- }
+  "check": "□ 两条标题改写成完整句 □ OpenAI 数字与来源链正确 □ 阿里/智谱情绪对比清楚 □ claim 已标注 □ 没有组合总值 □ 没有买卖建议",
+  "zh": "写 110–140 词《回调周五，情绪分化》：两条电台标题改写成完整句 + 一段阿里与智谱情绪对比；标注未核实说法，不写组合总值、不做买卖建议。"
+ },
+ "gloss": [
+  [
+   "sold off",
+   "遭抛售"
+  ],
+  [
+   "promo film",
+   "宣传片"
+  ],
+  [
+   "emergent misalignment",
+   "涌现式失准"
+  ],
+  [
+   "priced for",
+   "市场已计价"
+  ],
+  [
+   "parameters",
+   "参数"
+  ],
+  [
+   "relayed",
+   "转述的"
+  ]
+ ]
 }
