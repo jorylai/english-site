@@ -1,0 +1,136 @@
+{
+ "date": "2026-11-02",
+ "level": "B1-B2",
+ "note": "主题：下周前瞻 + 周末风险事件（week-ahead preview / 'stealth bear market'）。格式：因果时间线听力 → 周一晨会简报口语 → 邮件写作。标注 fact / report（转述未确认）/ claim（二手或非官方）。素材：11/01 X 简报（部分来自 Grok 汇总的 X 新闻摘要，可能有误）。无持仓快照，不写组合数字。仅供语言练习，不构成投资建议，不含买卖建议。",
+ "listen": {
+  "title": "Weekend Timeline: Cause and Effect",
+  "rate": 0.85,
+  "text": "Here is the weekend, step by step. First, a report: Kobeissi, relaying the Wall Street Journal, said President Trump spoke with Netanyahu, and the U.S. was preparing to resume strikes on Iran after the November 3 midterm elections. Gulf Arab states were reportedly told to prepare for a short but intense operation. This is a relayed report, with no official confirmation. Second, a fact from the FBI: North Korea was behind the 6.3 billion dollar Binance hack, the largest crypto theft ever. As a result, Reuters said, Binance covered most of the loss with its own funds and resumed bitcoin withdrawals. Third, on Friday Apple fell about 1.2 percent and Nvidia about 4.2 percent, so Apple, at about 5.03 trillion dollars, passed Nvidia for the first time in over a year. That figure comes from an X news summary. Finally, Reuters reported that Xiaomi delivered more than 50,000 electric vehicles in October, a monthly high for 2026.",
+  "questions": [
+   {
+    "q": "Timeline order: Binance / Iran report / Apple passes Nvidia / Xiaomi deliveries — which came first in the audio?",
+    "a": "Iran report → Binance → Apple passes Nvidia → Xiaomi deliveries."
+   },
+   {
+    "q": "Dictation: The Binance hack was ___ billion dollars; the FBI blamed ______ ______.",
+    "a": "6.3 / North Korea"
+   },
+   {
+    "q": "Cause → effect: What did Binance do after the hack?",
+    "a": "Covered most of the loss with its own funds and resumed bitcoin withdrawals (Reuters)."
+   },
+   {
+    "q": "Dictation: Apple about ___ percent down, Nvidia about ___ percent down; Apple value about ___ trillion.",
+    "a": "1.2 / 4.2 / 5.03"
+   },
+   {
+    "q": "Fact or report? 'Strikes on Iran after the November 3 midterms.'",
+    "a": "Relayed report (Kobeissi citing WSJ), not officially confirmed."
+   }
+  ]
+ },
+ "speak": {
+  "prompt": "You are my English meeting coach. I give a 2-minute Monday-morning 'week-ahead' briefing to my team. Interrupt with one question per section, then fix grammar and check that I label fact / report / claim. Material: Earnings calendar (unofficial calendar accounts): Monday Apple, Palantir; Tuesday AMD; Wednesday Uber, Qualcomm, Expedia; Thursday Airbnb, Cloudflare; Friday U.S. jobs data. 'Stealth bear market' (X news summary citing Kobeissi): S&P 500 near highs, but five of the Magnificent Seven lost about $3.54T from highs; over 60% of S&P stocks are more than 20% below highs. S&P 500 forward P/E about 18.3, tech about 18.4. TQQQ took in nearly $1B in one day, fifth-largest ever. ZeroHedge: two ex-Goldman people disagree — one points to a $1.1T cloud backlog, the other to peaking earnings growth. TechCrunch: OpenAI's round 'looks to have fallen short'. Apple CEO John Ternus: AI goes into products, but not 'AI for AI's sake'. Never give buy/sell advice. Language practice only.",
+  "questions": [
+   "Open the briefing (30s): 'Here's what's on deck this week...' Name the days and companies; say the calendar is unofficial.",
+   "Explain 'stealth bear market' (45s) using $3.54T and 'over 60 percent'. Start with 'On the surface... but underneath...'.",
+   "Present both sides (45s): the $1.1T cloud backlog view vs the peaking-earnings view. Use 'whereas'.",
+   "Risk slide (30s): the Iran report and the Binance hack. Say clearly which is a report and which is confirmed by the FBI.",
+   "Close (20s): paraphrase John Ternus's 'not AI for AI's sake' in your own words."
+  ],
+  "tip": "简报结构：Agenda → Key dates → Two views → Risks → Close。常用：on deck / heading into / whereas / reportedly。"
+ },
+ "read": {
+  "title": "A Quiet Index, a Noisy Week",
+  "text": "On the surface, the S&P 500 is still close to its highs. Underneath, an X news summary citing Kobeissi described a 'stealth bear market': five of the Magnificent Seven have together lost about 3.54 trillion dollars from their peaks, and more than 60 percent of S&P 500 stocks are over 20 percent below their highs. Another summary said the S&P 500 forward P/E fell to about 18.3, with tech at about 18.4. Investors are split. Nearly 1 billion dollars flowed into the triple-leveraged TQQQ in one day, the fifth-largest daily inflow on record. ZeroHedge described two former Goldman Sachs people who drew opposite conclusions from AI's worst week: one focused on a 1.1 trillion dollar cloud backlog, the other on earnings growth that may be peaking. TechCrunch said OpenAI's latest round looks to have fallen short. Apple's new CEO, John Ternus, defended the company's approach, saying AI will be built into products, but not AI for AI's sake. Elsewhere, Google DeepMind said its PlanAssist tool can cut UK planning assessment time by up to 58 percent. In travel, Reuters said Malaysia Airlines customer data may be affected by the Amadeus breach; a secondhand list adding other airlines is unverified. Skift reported that Marriott is cutting corporate jobs worldwide, without a number, and that chatbots left out a suitable destination 29 percent of the time, rising to 60 percent for popular ones. Airbnb's new rules from November 20 stop hosts from asking guests to strip beds or wash dishes. This is practice material, not investment advice.",
+  "vocab": [
+   [
+    "on the surface",
+    "表面上",
+    "On the surface, the index looks calm."
+   ],
+   [
+    "stealth bear market",
+    "隐形熊市",
+    "Some call it a stealth bear market."
+   ],
+   [
+    "forward P/E",
+    "远期市盈率",
+    "The forward P/E fell to about 18.3."
+   ],
+   [
+    "triple-leveraged",
+    "三倍杠杆",
+    "TQQQ is a triple-leveraged fund."
+   ],
+   [
+    "inflow",
+    "资金流入",
+    "It was the fifth-largest daily inflow."
+   ],
+   [
+    "backlog",
+    "积压订单",
+    "A 1.1 trillion dollar cloud backlog."
+   ],
+   [
+    "peaking",
+    "见顶",
+    "Earnings growth may be peaking."
+   ],
+   [
+    "fallen short",
+    "未达预期",
+    "The round looks to have fallen short."
+   ],
+   [
+    "breach",
+    "（数据）泄露",
+    "Customer data may be affected by the breach."
+   ],
+   [
+    "corporate jobs",
+    "公司职能岗位",
+    "Marriott is cutting corporate jobs."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the 'stealth' part of the bear market?",
+    "a": "The S&P 500 is near highs, but five of the Mag 7 lost ~$3.54T and >60% of stocks are >20% below highs."
+   },
+   {
+    "q": "What two opposite views did ZeroHedge describe?",
+    "a": "$1.1T cloud backlog (positive) vs earnings growth peaking (negative)."
+   },
+   {
+    "q": "Which travel item is unverified?",
+    "a": "The secondhand list of other airlines affected by the Amadeus breach."
+   },
+   {
+    "q": "What do the 29% and 60% figures measure?",
+    "a": "How often chatbots left a suitable destination off their list; 60% for popular ones (Skift Research)."
+   },
+   {
+    "q": "What does Airbnb's November 20 rule stop?",
+    "a": "Hosts asking guests to strip beds or wash dishes."
+   }
+  ]
+ },
+ "write": {
+  "task": "Write a 100–130 word email to a colleague. Subject: 'Week ahead – quick heads-up'.\n1) Greeting + one-line purpose.\n2) List 3 earnings days from the calendar (say it comes from an unofficial calendar account).\n3) One sentence on the 'stealth bear market' with one number.\n4) One risk, clearly labeled: the Iran report is relayed and unconfirmed; the Binance hack attribution is from the FBI.\n5) Polite close. No buy/sell advice.\nEnd with: language practice, not investment advice.",
+  "phrases": [
+   "Just a quick heads-up on the week ahead.",
+   "According to an unofficial earnings calendar,...",
+   "Heading into the week,...",
+   "It's worth flagging that...",
+   "This is a relayed report and hasn't been confirmed.",
+   "Let me know if you'd like more detail.",
+   "Best regards,"
+  ],
+  "feedbackPrompt": "Correct my English email. Check tone (polite, concise), grammar, and that every item is labeled fact / report / claim. Flag anything that sounds like buy/sell advice. Suggest a B2 rewrite. No investment advice.",
+  "model": "Subject: Week ahead – quick heads-up\n\nHi Lena,\n\nJust a quick heads-up on the week ahead. According to an unofficial earnings calendar, Apple and Palantir report on Monday, AMD on Tuesday, and Airbnb and Cloudflare on Thursday; U.S. jobs data comes on Friday. On the surface the S&P 500 is near its highs, but more than 60 percent of its stocks are over 20 percent below their peaks, which some call a stealth bear market. It's worth flagging two risks: the FBI says North Korea was behind the 6.3 billion dollar Binance hack, while the report about U.S. strikes on Iran after the midterms is relayed and unconfirmed.\n\nLet me know if you'd like more detail.\n\nBest regards,\nJory\n\n(Language practice, not investment advice.)",
+  "check": "□ 有主题行和问候 □ 财报日历标注非官方 □ 伊朗=转述未确认，币安=FBI □ 语气礼貌简洁 □ 没有买卖建议"
+ }
+}
