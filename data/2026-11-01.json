@@ -1,0 +1,136 @@
+{
+ "date": "2026-11-01",
+ "level": "B1-B2",
+ "note": "主题：技术性回调与 AI 融资重置。格式：电台简报 → 交易台访谈 → 标题改写。对比美股抛售与持仓情绪（阿里千问 vs 智谱抛售）。无 Nov 1 持仓快照。分清 fact/claim。素材：10/31 X 简报与持仓情绪。仅供语言练习，不构成投资建议，不含买卖建议。",
+ "listen": {
+  "title": "Radio Bulletin: Correction Friday",
+  "rate": 0.85,
+  "text": "This is Market Desk Radio. Fact: on Friday, U.S. Eastern time October 30, tech stocks sold off hard. According to the Kobeissi Letter, the Nasdaq-100 fell about 10 percent from its October 6 high and entered a technical correction. Intel dropped about 31 percent intraday. An X news summary said the Nasdaq closed down about 2.9 percent and the S&P about 1.8 percent. The Wall Street Journal called it the Nasdaq's worst day since June. The focus was whether AI capital expenditure can turn into cash flow. Fact, according to Kobeissi citing the Financial Times: OpenAI cut its fundraising target from 30 billion dollars to 20 billion, and its valuation from 1.4 trillion to 1.25 trillion. Separately, OpenAI released a promo film titled There are many futures; there was no official model launch. Claim slash report: MS NOW, via DeItaone, said a possible Iran strike could come as early as November 4. That is a relayed report, not confirmed here.",
+  "questions": [
+   {
+    "q": "Dictation: Nasdaq-100 about ___ percent off the October ___ high.",
+    "a": "10 / 6"
+   },
+   {
+    "q": "Dictation: Intel about ___ percent intraday; Nasdaq closed about ___ percent; S&P about ___ percent.",
+    "a": "31 / 2.9 / 1.8"
+   },
+   {
+    "q": "Dictation: OpenAI raise cut from ___ billion to ___ billion; valuation from ___ trillion to ___ trillion.",
+    "a": "30 / 20 / 1.4 / 1.25"
+   },
+   {
+    "q": "Comprehension: What was the market's main focus, per the bulletin?",
+    "a": "Whether AI capital expenditure can turn into cash flow."
+   },
+   {
+    "q": "Fact or claim? 'A possible Iran strike as early as November 4.'",
+    "a": "Claim/report — MS NOW via DeItaone, relayed, not confirmed here."
+   }
+  ]
+ },
+ "speak": {
+  "prompt": "You are my English interview coach on Explain the Sell-off. I am a junior analyst; you are the host. After each answer, fix grammar, mark fact vs claim, ask one follow-up. Facts: Nasdaq-100 ~10% off Oct 6 (Kobeissi, technical correction); Intel ~-31% intraday; Nasdaq ~-2.9%, S&P ~-1.8%; WSJ worst Nasdaq day since June; AI capex vs cash flow; OpenAI raise $30B→$20B, valuation $1.4T→$1.25T (Kobeissi citing FT); film There are many futures (no model launch); Anthropic red-teaming with Claude agents; The Verge: iOS 27.3 beta brings some Apple Intelligence to China; S&P Global cut Meta outlook to negative; ~75% priced for Dec hike; ECI Q3 +0.8% QoQ / +3.4% YoY vs CPI 3.7%; Binance hack ~$6.4B in 20 min (WSJ). Sentiment: Tencent 7.4, PDD 7.8, Meituan 8.8 (~6.8 unweighted), Alibaba 8.0, Xiaomi 8.9, Zhipu 4.2 (~5.0 unweighted), Kingsoft Cloud N/A. Alibaba Qwen / Apple China; IDC MaaS ~46.6% / ~10.6% (relayed). Xiaomi OCR-0 ~0.8B. Claims: Zhipu HK ~-84% from high; GLM-5.5 post-training rumor; Arb Insights Expedia Oct slowdown; Iran strike as early as Nov 4 (MS NOW/DeItaone). No portfolio totals. No buy/sell advice. Language practice only.",
+  "questions": [
+   "Interview (60s): Explain Friday's Nasdaq sell-off in three numbers and one so-what. Use 'technical correction' and 'cash flow'.",
+   "Interview (45s): Rewrite the OpenAI fundraising headline, then contrast it with the promo film that had no model launch.",
+   "Interview (45s): Contrast Alibaba sentiment 8.0 (Qwen / Apple China) with Zhipu 4.2. Label IDC MaaS shares as relayed.",
+   "Quick-fire (20s each): Meta outlook cut; ECI vs CPI; Binance hack size and time.",
+   "Claim drill: Say the Zhipu ~-84% figure and the Iran Nov-4 report starting with 'One source claims...' and ending with 'unverified / not confirmed here'."
+  ],
+  "tip": "访谈：Number → Source → So what。fact 用 According to...；claim 用 One poster claims... / unverified。"
+ },
+ "read": {
+  "title": "Two Stories on One Friday: U.S. Tech Sell-off vs China Holdings Sentiment",
+  "text": "Friday told two stories at once. In the United States, tech sold off. The Kobeissi Letter said the Nasdaq-100 was about 10 percent below its October 6 high, a technical correction; Intel fell about 31 percent intraday. An X news summary put the Nasdaq down about 2.9 percent and the S&P about 1.8 percent, and the Wall Street Journal called it the Nasdaq's worst day since June. Investors focused on whether AI capital expenditure can become free cash flow. Kobeissi, citing the Financial Times, said OpenAI cut its fundraising target from 30 billion dollars to 20 billion and its valuation from 1.4 trillion to 1.25 trillion. OpenAI also posted a film called There are many futures, without an official model launch. Anthropic used thousands of Claude agents for red-teaming on emergent misalignment. The Verge reported that an iOS 27.3 beta will bring some Apple Intelligence features to China. S&P Global cut Meta's outlook to negative over capex and free-cash-flow uncertainty. About 75 percent was priced for a December rate hike, per Kobeissi; Liz Ann Sonders noted Q3 ECI at plus 0.8 percent quarter on quarter and plus 3.4 percent year on year, below September CPI at 3.7 percent. The WSJ reported a Binance hack of about 6.4 billion dollars in twenty minutes. On the holdings-sentiment side, sentiment scores were mixed: Tencent 7.4, PDD 7.8, Meituan 8.8 (unweighted about 6.8), Alibaba 8.0, Xiaomi 8.9, Zhipu 4.2 (unweighted about 5.0), and Kingsoft Cloud not available. Alibaba's narrative centered on Apple's China AI using Qwen; a relayed IDC MaaS figure put Alibaba near 46.6 percent and Zhipu near 10.6 percent. Xiaomi's OCR-0 open-source model, about 0.8 billion parameters, drew positive talk. For Zhipu, one poster made an unverified claim that the Hong Kong-listed stock was about 84 percent below its high. In travel, Skift said Silkhaus in Dubai will shut by end-November, citing a U.S.-Iran war; AirDNA showed Dubai November short-term bookings down 37.5 percent year on year; Thailand cut its 2026 visitor forecast from 36.7 million to 33 million; IndiGo fuel costs rose 67 percent with a loss of about 197 million dollars. Arb Insights claimed Expedia U.S. demand slowed in October — also unverified. This is practice material, not investment advice.",
+  "vocab": [
+   [
+    "technical correction",
+    "技术性回调（约回落10%）",
+    "The Nasdaq-100 entered a technical correction."
+   ],
+   [
+    "capital expenditure",
+    "资本开支（capex）",
+    "Can capital expenditure become cash flow?"
+   ],
+   [
+    "free cash flow",
+    "自由现金流",
+    "Outlook cut over free-cash-flow uncertainty."
+   ],
+   [
+    "fundraising target",
+    "融资目标",
+    "OpenAI cut its fundraising target."
+   ],
+   [
+    "red-teaming",
+    "红队测试",
+    "Anthropic used Claude agents for red-teaming."
+   ],
+   [
+    "outlook to negative",
+    "展望下调为负面",
+    "S&P Global cut Meta's outlook to negative."
+   ],
+   [
+    "sentiment scores",
+    "情绪分",
+    "Sentiment scores were mixed."
+   ],
+   [
+    "open-source",
+    "开源",
+    "Xiaomi released an open-source OCR model."
+   ],
+   [
+    "year on year",
+    "同比",
+    "Bookings were down 37.5 percent year on year."
+   ],
+   [
+    "unverified claim",
+    "未经核实的说法",
+    "One poster made an unverified claim."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What three U.S. market numbers define Friday's sell-off?",
+    "a": "Nasdaq-100 ~10% off Oct 6 high; Intel ~-31% intraday; Nasdaq ~-2.9% / S&P ~-1.8%."
+   },
+   {
+    "q": "How did OpenAI change its raise and valuation, and what is the source?",
+    "a": "$30B→$20B raise; $1.4T→$1.25T valuation; Kobeissi citing FT."
+   },
+   {
+    "q": "Contrast Alibaba and Zhipu sentiment scores and one narrative each.",
+    "a": "Alibaba 8.0 (Qwen / Apple China AI); Zhipu 4.2 (AI-bubble / sell-off; ~-84% is a claim)."
+   },
+   {
+    "q": "Which travel figures are Skift/AirDNA facts, and which Expedia line is a claim?",
+    "a": "Facts: Silkhaus end-Nov shut; Dubai Nov bookings -37.5% YoY; Thailand 36.7M→33M; IndiGo fuel +67%, ~$197M loss. Claim: Arb Insights on Expedia Oct US demand."
+   },
+   {
+    "q": "Match: red-teaming / iOS 27.3 beta / Meta outlook → who?",
+    "a": "Anthropic / Apple (The Verge) / S&P Global cut outlook to negative."
+   }
+  ]
+ },
+ "write": {
+  "task": "Write 110–140 words titled 'Correction Friday, Split Sentiment'.\n(A) two radio headlines as full sentences; (B) one contrast paragraph.\n1) Headline 1: Nasdaq technical correction (~10%) and Intel (~-31%).\n2) Headline 2: OpenAI raise $30B→$20B; valuation $1.4T→$1.25T; source = Kobeissi citing FT.\n3) Contrast: Alibaba sentiment 8.0 (Qwen / Apple China) vs Zhipu 4.2; IDC MaaS ~46.6% / ~10.6% relayed; label ~-84% Zhipu as unverified claim.\n4) No portfolio totals. No buy/sell advice.\nEnd: language practice, not investment advice.",
+  "phrases": [
+   "In radio terms: ...",
+   "According to Kobeissi, citing the Financial Times,...",
+   "A technical correction means...",
+   "On the sentiment tape,...",
+   "One poster claims..., which is unverified.",
+   "Relayed IDC figures put Alibaba near... and Zhipu near...",
+   "This is language practice, not investment advice."
+  ],
+  "feedbackPrompt": "Correct my English bulletin. Flag grammar, fact/claim mix-ups, and any buy/sell advice. Suggest a B2 rewrite using technical correction, fundraising target, sentiment score, unverified claim. No investment advice.",
+  "model": "Correction Friday, Split Sentiment. In radio terms: the Nasdaq-100 slipped about 10 percent from its October 6 high into a technical correction, while Intel sank about 31 percent intraday. Second headline: according to Kobeissi, citing the Financial Times, OpenAI cut its fundraising target from 30 billion dollars to 20 billion and its valuation from 1.4 trillion to 1.25 trillion. On the sentiment tape, Alibaba scored 8.0 on the Apple-China Qwen narrative, while Zhipu scored 4.2 under an AI-bubble sell-off story. Relayed IDC MaaS figures put Alibaba near 46.6 percent and Zhipu near 10.6 percent. One poster claims Zhipu's Hong Kong stock was about 84 percent below its high, which is unverified. This is language practice, not investment advice.",
+  "check": "□ 两条标题改写成完整句 □ OpenAI 数字与来源链正确 □ 阿里/智谱情绪对比清楚 □ claim 已标注 □ 没有组合总值 □ 没有买卖建议"
+ }
+}
